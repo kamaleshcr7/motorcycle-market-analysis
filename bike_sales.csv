@@ -1,0 +1,1001 @@
+Date,Brand,Model,Engine_CC,Mileage,Price,Quantity_Sold,Region,Dealer_Name,Customer_Age_Group
+17-04-2023,TVS,Ntorq,400,50,202299,2,West,Dealer_11,36-45
+13-03-2023,Royal Enfield,Meteor 350,500,43.6,273276,5,Central,Dealer_8,56+
+11-04-2024,TVS,Raider,350,33.9,275328,1,South,Dealer_4,56+
+03-08-2023,Yamaha,MT-15,110,48.2,219596,8,North,Dealer_1,56+
+23-10-2024,Yamaha,MT-15,500,60.8,111289,4,West,Dealer_7,26-35
+05-11-2023,Jawa,Bobber,250,52.7,112714,5,Central,Dealer_2,56+
+04-10-2023,Royal Enfield,Classic 350,200,39.2,170147,1,North,Dealer_6,18-25
+10-06-2023,Yamaha,MT-15,400,39.7,126058,1,Central,Dealer_14,26-35
+14-07-2024,Bajaj,Avenger,150,47.4,296381,6,West,Dealer_13,26-35
+19-04-2024,Bajaj,CT 100,500,25.9,115479,5,West,Dealer_10,18-25
+20-04-2024,Suzuki,Access 125,500,34.9,190834,10,South,Dealer_20,36-45
+30-11-2024,Hero,Splendor,500,48.1,120160,8,East,Dealer_8,18-25
+17-11-2024,TVS,Raider,250,38,238377,9,East,Dealer_16,56+
+16-07-2024,Jawa,Bobber,400,23.6,280107,4,East,Dealer_12,36-45
+19-05-2024,Hero,Splendor,125,46.4,171792,5,Central,Dealer_5,36-45
+11-05-2023,Bajaj,Avenger,150,44.7,143000,2,East,Dealer_1,36-45
+16-06-2023,Yamaha,FZ,200,49.2,175082,9,East,Dealer_9,26-35
+01-10-2023,TVS,Raider,200,53.3,136487,8,South,Dealer_12,18-25
+18-07-2024,Bajaj,Dominar 400,500,39,210188,10,West,Dealer_1,46-55
+06-12-2023,Hero,HF Deluxe,400,54.5,147018,2,Central,Dealer_1,46-55
+03-03-2024,Suzuki,Gixxer,400,52.8,145287,4,East,Dealer_14,36-45
+23-05-2024,TVS,Apache RTR,400,34,171402,4,Central,Dealer_14,46-55
+22-03-2023,TVS,Raider,350,41.3,81366,4,West,Dealer_3,56+
+15-07-2024,Honda,SP 125,250,48.8,116267,7,South,Dealer_6,26-35
+25-01-2024,Bajaj,Avenger,350,32.3,201875,9,North,Dealer_16,36-45
+19-07-2024,Bajaj,CT 100,150,55.9,289434,5,Central,Dealer_15,26-35
+03-12-2024,TVS,Apache RTR,350,31.7,116577,1,South,Dealer_20,18-25
+06-02-2024,Yamaha,R15,150,47,287169,1,South,Dealer_16,56+
+28-09-2023,Royal Enfield,Meteor 350,250,47.2,163538,9,South,Dealer_15,18-25
+31-03-2024,Hero,HF Deluxe,110,53.8,179516,9,East,Dealer_6,46-55
+02-12-2024,Jawa,Perak,350,52.9,274128,5,North,Dealer_4,46-55
+23-10-2023,Honda,SP 125,400,71.6,104926,8,West,Dealer_2,18-25
+22-02-2023,Jawa,Yezdi Roadster,250,49.7,168908,4,Central,Dealer_9,36-45
+05-08-2023,Jawa,42,350,51.6,103945,5,West,Dealer_7,18-25
+10-02-2023,Honda,Shine,500,48.4,287867,5,West,Dealer_15,56+
+06-06-2023,Bajaj,CT 100,500,27.4,267650,7,North,Dealer_10,46-55
+05-11-2024,Jawa,Yezdi Roadster,110,50.8,141911,4,South,Dealer_17,36-45
+23-02-2024,Honda,SP 125,500,53.9,100536,9,Central,Dealer_2,26-35
+15-05-2023,Yamaha,R15,500,36.6,222023,6,West,Dealer_20,36-45
+20-07-2023,Suzuki,Burgman,350,41.9,279544,5,South,Dealer_2,36-45
+17-02-2023,Yamaha,FZ,125,29.9,85930,8,West,Dealer_12,36-45
+17-05-2024,Honda,CB350,500,56,135438,1,Central,Dealer_1,56+
+09-04-2023,Yamaha,MT-15,200,33.9,242473,2,West,Dealer_20,56+
+14-11-2024,TVS,Raider,500,33,75750,10,East,Dealer_1,36-45
+04-09-2024,Hero,XPulse 200,125,53.3,231157,9,East,Dealer_1,36-45
+06-04-2024,Honda,SP 125,400,48,205343,5,South,Dealer_17,18-25
+17-05-2024,Jawa,42,400,49.7,219584,8,West,Dealer_8,56+
+02-02-2024,Hero,HF Deluxe,110,52.4,153199,1,North,Dealer_4,46-55
+15-01-2023,Bajaj,CT 100,200,78.7,241298,4,East,Dealer_3,18-25
+07-07-2024,Hero,Glamour,350,35.8,199609,7,South,Dealer_12,18-25
+29-08-2023,TVS,Apache RTR,125,31.2,97215,3,South,Dealer_19,26-35
+17-07-2024,Bajaj,CT 100,400,42.2,244918,2,North,Dealer_7,26-35
+29-04-2024,Honda,SP 125,250,62.9,168302,3,East,Dealer_13,46-55
+11-02-2024,Yamaha,MT-15,200,50.8,225670,2,East,Dealer_12,26-35
+24-06-2024,TVS,Apache RTR,250,53.7,262619,5,West,Dealer_3,56+
+05-02-2023,Hero,HF Deluxe,400,67.9,135772,9,East,Dealer_5,26-35
+31-08-2023,Hero,HF Deluxe,400,46.4,113975,6,South,Dealer_2,26-35
+27-03-2023,Honda,Hornet 2.0,200,51.1,216427,4,South,Dealer_15,56+
+27-07-2024,Royal Enfield,Classic 350,400,47.9,106427,4,Central,Dealer_2,46-55
+07-10-2024,TVS,Jupiter,350,54,220713,6,East,Dealer_6,46-55
+06-12-2023,Suzuki,Burgman,350,30.2,81086,1,North,Dealer_15,18-25
+27-11-2023,Honda,Hornet 2.0,125,42.7,249412,6,North,Dealer_19,26-35
+17-04-2024,Suzuki,Intruder,200,37.3,114623,3,East,Dealer_2,56+
+19-08-2023,Royal Enfield,Hunter 350,500,41.4,160994,6,South,Dealer_8,46-55
+10-10-2023,Bajaj,Avenger,350,42.4,226517,1,East,Dealer_15,36-45
+24-09-2024,Yamaha,R15,110,49.6,225460,5,North,Dealer_11,56+
+25-12-2023,Bajaj,Avenger,110,48,95195,2,East,Dealer_9,56+
+10-12-2024,Bajaj,Avenger,200,47.6,162835,5,North,Dealer_12,36-45
+07-11-2024,Suzuki,Intruder,400,18.4,157684,9,Central,Dealer_11,36-45
+13-08-2023,Bajaj,Dominar 400,200,48.5,147233,6,Central,Dealer_13,36-45
+09-01-2024,Bajaj,Avenger,150,41.6,123421,8,South,Dealer_4,26-35
+02-11-2024,Yamaha,MT-15,125,37,234272,9,North,Dealer_11,46-55
+23-04-2023,Suzuki,Burgman,200,63.9,109262,7,North,Dealer_9,18-25
+11-05-2024,Bajaj,Pulsar 150,125,46.7,297318,5,South,Dealer_6,36-45
+21-01-2024,TVS,Ntorq,400,36.5,147864,5,South,Dealer_2,26-35
+22-01-2024,Royal Enfield,Meteor 350,250,36.8,181299,10,East,Dealer_3,18-25
+22-03-2023,Bajaj,CT 100,250,34.3,107335,8,South,Dealer_14,26-35
+29-11-2024,Royal Enfield,Bullet 350,125,35.1,76622,5,North,Dealer_20,56+
+19-07-2024,Jawa,42,250,45.6,210810,1,Central,Dealer_12,18-25
+13-08-2023,Bajaj,CT 100,150,69.6,270729,2,North,Dealer_9,36-45
+22-02-2023,Jawa,Perak,150,59.3,224386,7,North,Dealer_6,18-25
+14-11-2024,Hero,XPulse 200,350,55.7,198259,2,East,Dealer_18,18-25
+04-09-2023,Bajaj,Avenger,250,64.7,199212,3,Central,Dealer_8,56+
+14-03-2024,TVS,Jupiter,250,25.6,201549,5,East,Dealer_8,36-45
+21-10-2023,Jawa,42,400,37.2,95303,9,North,Dealer_2,26-35
+07-10-2023,Suzuki,Intruder,125,52.7,178771,7,South,Dealer_10,56+
+25-05-2024,Hero,HF Deluxe,110,48.6,177674,4,Central,Dealer_12,18-25
+24-05-2023,Bajaj,CT 100,400,44.8,91603,7,South,Dealer_15,36-45
+22-11-2023,Bajaj,Dominar 400,200,40.1,132612,4,South,Dealer_4,26-35
+08-04-2024,TVS,Raider,350,54.2,238798,8,West,Dealer_11,46-55
+07-02-2024,Suzuki,Access 125,400,46,175927,9,West,Dealer_7,46-55
+12-12-2023,Suzuki,Access 125,150,40,252730,10,Central,Dealer_4,46-55
+11-12-2024,Royal Enfield,Bullet 350,250,29.5,153590,6,West,Dealer_5,56+
+03-05-2024,Jawa,Yezdi Roadster,110,45.7,292874,5,West,Dealer_19,36-45
+04-12-2023,Hero,XPulse 200,125,35.8,269182,6,North,Dealer_3,26-35
+02-10-2024,Bajaj,Dominar 400,400,60.5,88402,9,South,Dealer_2,26-35
+31-05-2023,Yamaha,FZ,110,56.7,298999,1,North,Dealer_7,56+
+19-02-2024,Hero,Splendor,250,53.7,72407,7,South,Dealer_17,26-35
+24-05-2023,TVS,Jupiter,125,41.4,244793,1,East,Dealer_17,26-35
+12-12-2023,Yamaha,Fascino,110,50.6,256180,3,South,Dealer_15,46-55
+02-01-2023,Bajaj,Avenger,200,45.1,106391,5,East,Dealer_1,36-45
+31-10-2023,Honda,CB350,350,48.8,88067,5,North,Dealer_2,18-25
+09-06-2023,Suzuki,Gixxer,125,45.6,113153,5,East,Dealer_7,46-55
+09-01-2023,Suzuki,Gixxer,400,50,256460,2,West,Dealer_2,26-35
+27-07-2023,Bajaj,Dominar 400,110,54.6,179187,7,South,Dealer_13,36-45
+11-05-2023,Yamaha,Fascino,110,34.4,186228,9,South,Dealer_1,36-45
+03-11-2024,Honda,Hornet 2.0,125,42.1,152553,7,South,Dealer_1,46-55
+19-09-2024,Jawa,Bobber,110,55.7,252059,3,East,Dealer_13,18-25
+15-08-2023,Honda,SP 125,350,47.3,131417,1,North,Dealer_14,36-45
+22-04-2023,Suzuki,Burgman,350,53.5,224220,7,North,Dealer_18,26-35
+04-12-2023,Yamaha,MT-15,110,47.9,294538,6,North,Dealer_8,56+
+06-12-2024,Hero,HF Deluxe,400,37.9,140267,1,North,Dealer_16,56+
+11-11-2024,Yamaha,FZ,200,55.5,166150,1,West,Dealer_12,46-55
+10-06-2023,Bajaj,CT 100,150,58.3,281950,10,South,Dealer_20,18-25
+18-05-2024,TVS,Ntorq,350,45,120666,4,South,Dealer_1,18-25
+27-01-2024,Suzuki,Burgman,125,41.2,117907,9,East,Dealer_20,46-55
+02-02-2023,Suzuki,Gixxer,200,49.2,88176,4,South,Dealer_14,46-55
+18-11-2024,Suzuki,Access 125,110,54.4,192717,10,North,Dealer_13,26-35
+10-01-2024,Hero,Splendor,200,42.5,191198,8,West,Dealer_19,36-45
+22-01-2023,Honda,Hornet 2.0,110,37.5,73864,9,North,Dealer_2,46-55
+10-10-2023,Royal Enfield,Classic 350,250,53.8,170654,8,East,Dealer_8,26-35
+27-01-2023,Yamaha,FZ,350,42.6,105401,9,North,Dealer_8,46-55
+11-10-2023,Honda,CB350,350,45.1,88541,6,South,Dealer_7,46-55
+25-04-2024,Bajaj,Dominar 400,125,59.5,79065,1,South,Dealer_3,56+
+20-10-2024,Bajaj,CT 100,250,51.3,98354,1,North,Dealer_3,56+
+30-05-2024,Bajaj,Dominar 400,150,36.4,122561,8,South,Dealer_2,36-45
+17-01-2023,Jawa,Yezdi Roadster,150,45.4,89587,9,Central,Dealer_5,18-25
+21-06-2023,Jawa,Perak,125,43.6,183546,8,East,Dealer_4,56+
+06-02-2023,Royal Enfield,Classic 350,250,42.8,70065,4,Central,Dealer_7,36-45
+07-10-2023,TVS,Raider,200,52.1,119437,2,Central,Dealer_14,36-45
+29-08-2024,Royal Enfield,Hunter 350,125,51.1,236937,2,East,Dealer_8,56+
+09-04-2023,TVS,Ntorq,200,25.6,231074,2,East,Dealer_19,18-25
+10-06-2023,Yamaha,FZ,250,35.5,262337,3,East,Dealer_15,26-35
+13-09-2023,Hero,XPulse 200,150,39,240909,5,North,Dealer_14,36-45
+19-07-2024,Jawa,Yezdi Roadster,400,21.8,200106,3,Central,Dealer_17,18-25
+23-07-2024,Honda,Shine,200,42.3,170238,4,West,Dealer_18,36-45
+24-10-2024,Honda,SP 125,150,51.4,221774,1,North,Dealer_13,36-45
+30-09-2024,Hero,Splendor,400,34.2,265885,4,North,Dealer_1,46-55
+14-04-2023,Hero,XPulse 200,250,55.6,92610,1,North,Dealer_11,26-35
+28-01-2024,Jawa,42,400,45.5,153175,9,East,Dealer_4,46-55
+21-04-2024,Royal Enfield,Bullet 350,250,35.4,133012,5,East,Dealer_9,46-55
+12-11-2024,Bajaj,Avenger,125,58.8,99206,5,Central,Dealer_2,56+
+12-02-2024,Honda,Hornet 2.0,150,50.2,227651,5,South,Dealer_13,56+
+08-06-2024,Royal Enfield,Bullet 350,250,50.1,279513,7,Central,Dealer_14,46-55
+26-05-2024,TVS,Jupiter,500,33.2,107482,6,East,Dealer_11,46-55
+04-02-2024,Honda,SP 125,350,49.9,163405,1,South,Dealer_14,46-55
+27-12-2024,Bajaj,Pulsar 150,150,45.7,255906,8,South,Dealer_17,36-45
+20-02-2023,Suzuki,Access 125,125,40.9,79125,4,East,Dealer_3,56+
+05-05-2023,Bajaj,Pulsar 150,500,68.1,163541,10,North,Dealer_17,26-35
+30-05-2023,Hero,Splendor,250,26.3,258488,6,East,Dealer_6,26-35
+22-11-2024,Royal Enfield,Meteor 350,250,40.9,288130,1,West,Dealer_18,36-45
+12-11-2024,Yamaha,FZ,200,45.8,246701,8,East,Dealer_12,56+
+19-03-2024,Royal Enfield,Meteor 350,400,40.3,222856,5,North,Dealer_8,46-55
+04-09-2024,Royal Enfield,Classic 350,250,55.9,148131,6,North,Dealer_5,56+
+11-09-2024,Suzuki,Intruder,200,60.6,77669,9,North,Dealer_10,26-35
+05-01-2023,Hero,HF Deluxe,150,46.3,133583,1,North,Dealer_4,26-35
+16-12-2023,TVS,Raider,200,57.1,97275,4,East,Dealer_15,26-35
+16-02-2023,Suzuki,Burgman,110,43.5,213587,3,East,Dealer_2,56+
+17-10-2024,TVS,Raider,110,37.3,109209,10,Central,Dealer_8,26-35
+26-09-2023,Yamaha,MT-15,125,49.2,246454,2,Central,Dealer_1,56+
+26-08-2024,Yamaha,Fascino,150,43.9,89780,10,East,Dealer_12,46-55
+27-02-2023,Hero,XPulse 200,500,40.1,149754,1,East,Dealer_14,36-45
+27-02-2023,Honda,Shine,125,37.3,101240,1,West,Dealer_15,26-35
+25-09-2024,TVS,Apache RTR,350,61.6,254491,5,Central,Dealer_15,18-25
+29-09-2024,Honda,SP 125,400,40.3,254985,2,East,Dealer_1,18-25
+28-04-2023,TVS,Apache RTR,200,38.5,257859,8,West,Dealer_7,46-55
+29-09-2023,Suzuki,Gixxer,400,54.5,199117,1,East,Dealer_18,46-55
+08-07-2023,Suzuki,Intruder,110,57.7,88000,7,East,Dealer_10,26-35
+04-09-2023,TVS,Jupiter,200,48.8,206768,1,West,Dealer_16,46-55
+17-03-2023,Royal Enfield,Meteor 350,125,61.5,87871,10,East,Dealer_6,18-25
+27-03-2023,Honda,Hornet 2.0,400,33.2,217356,7,East,Dealer_16,46-55
+27-11-2024,Royal Enfield,Bullet 350,250,47.3,129019,10,South,Dealer_15,46-55
+16-02-2023,Yamaha,FZ,500,38.2,131507,4,Central,Dealer_17,46-55
+04-04-2023,Yamaha,R15,150,42.4,258229,2,Central,Dealer_8,36-45
+23-07-2023,Royal Enfield,Hunter 350,350,49.4,217479,9,Central,Dealer_13,18-25
+06-08-2023,Bajaj,Pulsar 150,250,52.7,157830,5,Central,Dealer_16,46-55
+03-09-2024,Bajaj,CT 100,110,52,105977,1,South,Dealer_1,18-25
+16-10-2023,TVS,Ntorq,350,51,155186,6,North,Dealer_15,18-25
+05-06-2024,Yamaha,R15,250,66.1,270472,3,East,Dealer_16,36-45
+10-04-2023,Honda,Shine,110,40,155832,6,West,Dealer_13,36-45
+20-10-2024,Suzuki,Burgman,150,43.7,240498,8,South,Dealer_8,56+
+17-03-2024,TVS,Apache RTR,125,40.3,236332,6,South,Dealer_15,36-45
+30-05-2024,Honda,CB350,110,76.9,243301,7,North,Dealer_15,56+
+16-01-2023,Yamaha,MT-15,500,45.8,108979,2,West,Dealer_1,36-45
+11-05-2024,Jawa,42,110,47,160451,8,West,Dealer_10,36-45
+09-06-2023,Royal Enfield,Bullet 350,500,39,82744,9,South,Dealer_20,56+
+20-11-2024,Suzuki,Access 125,110,46.1,289188,8,South,Dealer_9,36-45
+05-11-2024,Suzuki,Access 125,110,51.6,92783,4,South,Dealer_20,26-35
+21-11-2024,Jawa,Bobber,400,38.8,290445,2,West,Dealer_1,18-25
+02-03-2024,Royal Enfield,Bullet 350,200,66.1,186711,3,North,Dealer_12,36-45
+21-02-2024,Bajaj,Pulsar 150,500,43.5,256516,3,West,Dealer_16,26-35
+17-06-2023,TVS,Apache RTR,350,50.9,197963,4,East,Dealer_6,56+
+27-08-2024,Bajaj,Pulsar 150,200,40.1,131605,9,West,Dealer_1,56+
+24-08-2024,Royal Enfield,Classic 350,250,47.1,112125,10,Central,Dealer_6,56+
+15-07-2023,Royal Enfield,Hunter 350,150,32.6,265416,2,Central,Dealer_2,36-45
+15-05-2024,Yamaha,R15,200,36.8,171488,9,Central,Dealer_20,46-55
+11-01-2024,Yamaha,MT-15,150,50.3,200682,7,Central,Dealer_12,36-45
+24-02-2024,Royal Enfield,Classic 350,400,43.2,212681,3,West,Dealer_10,36-45
+06-11-2024,Jawa,42,500,49.5,77941,9,South,Dealer_8,46-55
+29-01-2024,Suzuki,Access 125,500,44.2,146572,1,North,Dealer_5,46-55
+19-11-2024,Suzuki,Intruder,500,61.8,79397,10,Central,Dealer_16,56+
+09-04-2023,Hero,HF Deluxe,200,26.3,299835,2,West,Dealer_18,56+
+06-04-2023,Suzuki,Burgman,250,27.1,234852,7,East,Dealer_18,46-55
+25-10-2024,Jawa,Yezdi Roadster,250,32.8,203401,1,East,Dealer_10,36-45
+04-01-2024,Yamaha,MT-15,500,46.8,299359,9,East,Dealer_12,26-35
+25-11-2024,Hero,Splendor,350,55.7,283749,1,North,Dealer_20,26-35
+30-09-2023,Bajaj,CT 100,150,53.3,154332,2,Central,Dealer_10,26-35
+03-03-2023,TVS,Raider,125,53.1,154962,7,Central,Dealer_1,46-55
+01-02-2024,Hero,Glamour,200,20.4,285927,8,Central,Dealer_19,46-55
+29-11-2024,Royal Enfield,Bullet 350,250,44.2,105236,10,East,Dealer_11,46-55
+19-01-2024,Honda,CB350,200,48.9,261333,3,Central,Dealer_2,46-55
+17-07-2024,Bajaj,Pulsar 150,250,43.8,92130,9,West,Dealer_16,18-25
+10-03-2023,Hero,Glamour,125,64.1,255529,7,South,Dealer_19,36-45
+09-04-2023,Royal Enfield,Classic 350,125,55.7,167729,9,West,Dealer_1,18-25
+13-04-2024,TVS,Ntorq,500,56.2,90534,6,North,Dealer_17,46-55
+28-04-2024,Suzuki,Access 125,125,66.4,252724,7,South,Dealer_4,36-45
+10-08-2024,Yamaha,FZ,110,63.1,84082,7,South,Dealer_9,26-35
+09-01-2023,Royal Enfield,Hunter 350,110,49,281511,8,South,Dealer_4,18-25
+10-09-2023,TVS,Apache RTR,400,51.1,175140,3,East,Dealer_19,26-35
+18-08-2023,Royal Enfield,Bullet 350,250,58.6,253642,5,West,Dealer_13,18-25
+19-06-2023,TVS,Ntorq,110,47.4,167059,3,South,Dealer_8,36-45
+28-01-2024,Bajaj,Dominar 400,250,39.9,283945,5,East,Dealer_8,46-55
+31-05-2024,Yamaha,FZ,250,50.6,192062,8,East,Dealer_20,26-35
+29-01-2023,TVS,Ntorq,250,53.7,134601,7,North,Dealer_7,36-45
+14-05-2024,Hero,Glamour,125,30.5,120852,3,North,Dealer_1,18-25
+18-10-2024,Bajaj,Dominar 400,110,30.9,201532,3,West,Dealer_19,56+
+19-02-2024,Hero,Splendor,400,38.4,179296,8,South,Dealer_1,56+
+20-03-2024,Bajaj,Avenger,500,58.6,248299,9,West,Dealer_12,26-35
+14-12-2024,Yamaha,FZ,500,59.8,96579,5,West,Dealer_7,26-35
+14-06-2024,Honda,CB350,125,36.2,213829,9,West,Dealer_13,26-35
+14-10-2024,Suzuki,Access 125,500,44.8,129414,9,Central,Dealer_10,18-25
+08-08-2023,Bajaj,Pulsar 150,400,35,227898,4,East,Dealer_1,46-55
+31-03-2024,Jawa,Bobber,350,60.9,184353,10,West,Dealer_14,18-25
+27-12-2023,Royal Enfield,Meteor 350,500,49.7,298667,2,West,Dealer_15,18-25
+14-12-2023,Jawa,Perak,200,53.4,125950,4,Central,Dealer_8,36-45
+09-07-2023,Suzuki,Burgman,500,56.3,285890,3,Central,Dealer_12,18-25
+13-02-2024,Honda,Shine,400,39.5,75347,3,East,Dealer_3,36-45
+27-04-2023,Hero,Glamour,150,20.4,290631,2,Central,Dealer_6,46-55
+22-07-2023,Bajaj,Pulsar 150,150,45.7,267029,9,West,Dealer_6,18-25
+17-08-2023,Royal Enfield,Classic 350,150,54.8,228210,2,West,Dealer_1,56+
+16-03-2024,Royal Enfield,Bullet 350,400,53.4,252613,2,Central,Dealer_20,18-25
+06-02-2024,Honda,Hornet 2.0,400,34.3,230808,3,North,Dealer_15,56+
+23-05-2023,Suzuki,Burgman,500,40.3,101965,6,Central,Dealer_19,36-45
+19-02-2024,Bajaj,Pulsar 150,400,39.4,267461,6,East,Dealer_2,36-45
+12-01-2023,Honda,SP 125,500,59.4,127833,8,East,Dealer_18,26-35
+26-11-2023,Honda,SP 125,250,38,269080,9,North,Dealer_13,18-25
+08-01-2023,Jawa,Perak,500,66.9,206928,10,East,Dealer_18,36-45
+02-05-2023,Bajaj,Pulsar 150,350,36.9,121775,9,West,Dealer_5,18-25
+28-11-2024,Royal Enfield,Hunter 350,110,43.4,239984,1,West,Dealer_3,36-45
+12-11-2023,Bajaj,CT 100,500,31.4,232309,3,South,Dealer_8,26-35
+10-02-2023,Royal Enfield,Meteor 350,350,37.4,172310,9,Central,Dealer_9,46-55
+04-12-2024,Yamaha,R15,150,46.5,279380,7,North,Dealer_11,18-25
+20-07-2023,Suzuki,Gixxer,350,40.1,75741,1,Central,Dealer_6,36-45
+24-12-2024,Royal Enfield,Meteor 350,200,44.5,258539,7,South,Dealer_20,56+
+11-07-2024,Honda,CB350,150,29.9,253428,4,East,Dealer_18,18-25
+30-06-2024,Royal Enfield,Classic 350,250,51.8,182499,9,South,Dealer_7,36-45
+25-03-2024,Yamaha,MT-15,350,52.4,274132,9,Central,Dealer_1,26-35
+10-01-2023,Royal Enfield,Meteor 350,400,59.8,269939,10,West,Dealer_18,26-35
+12-08-2023,Hero,HF Deluxe,110,56.8,250215,2,North,Dealer_10,26-35
+27-08-2023,Hero,HF Deluxe,125,40.3,243351,9,North,Dealer_9,18-25
+04-03-2023,Honda,Shine,350,48,119528,6,East,Dealer_19,36-45
+05-08-2023,Hero,XPulse 200,110,34,162686,3,West,Dealer_12,18-25
+09-04-2023,Honda,SP 125,125,43.9,220609,9,East,Dealer_13,46-55
+25-05-2024,Bajaj,Dominar 400,150,57.4,191929,8,West,Dealer_6,18-25
+01-06-2024,TVS,Raider,150,43.9,240630,4,West,Dealer_3,36-45
+20-04-2024,Royal Enfield,Classic 350,250,44.4,135827,6,North,Dealer_1,36-45
+18-07-2024,Suzuki,Burgman,125,45.1,199685,2,South,Dealer_19,18-25
+07-11-2024,Bajaj,CT 100,250,45.5,282969,6,South,Dealer_11,36-45
+26-03-2023,Hero,XPulse 200,350,38.6,259013,9,South,Dealer_9,36-45
+19-03-2023,Hero,XPulse 200,125,58.6,272094,8,Central,Dealer_2,56+
+15-11-2024,Yamaha,R15,400,38.4,212693,1,North,Dealer_18,36-45
+17-12-2024,Suzuki,Burgman,200,37.2,254142,7,South,Dealer_15,36-45
+02-05-2024,Hero,Splendor,150,48.3,236519,5,West,Dealer_2,18-25
+03-02-2023,Hero,XPulse 200,125,42.4,153618,6,South,Dealer_16,36-45
+03-06-2023,Royal Enfield,Classic 350,200,36.7,131200,3,Central,Dealer_15,36-45
+07-09-2023,Royal Enfield,Meteor 350,500,42,87939,4,South,Dealer_9,26-35
+02-11-2023,Royal Enfield,Hunter 350,500,60.5,264016,1,East,Dealer_14,36-45
+25-09-2023,TVS,Raider,250,46.2,259747,9,West,Dealer_17,56+
+26-07-2023,TVS,Ntorq,125,39.4,292259,8,East,Dealer_20,56+
+17-08-2023,Suzuki,Burgman,250,70.4,82123,1,Central,Dealer_12,36-45
+10-03-2024,Royal Enfield,Hunter 350,200,59.9,187491,3,West,Dealer_6,26-35
+13-04-2023,Jawa,Yezdi Roadster,110,53.8,299398,3,Central,Dealer_2,56+
+01-12-2023,Bajaj,Avenger,350,55.6,118688,8,South,Dealer_18,46-55
+10-03-2024,Suzuki,Burgman,125,27.4,135836,7,North,Dealer_8,36-45
+15-06-2023,Jawa,Perak,500,42.3,271669,1,Central,Dealer_6,26-35
+25-04-2024,Suzuki,Intruder,125,52.2,136408,4,West,Dealer_15,46-55
+16-04-2023,Bajaj,Pulsar 150,250,40.1,243674,2,South,Dealer_17,18-25
+16-07-2024,Hero,XPulse 200,150,58.3,245421,9,South,Dealer_7,26-35
+18-05-2023,Bajaj,Dominar 400,125,54.7,162462,4,East,Dealer_16,18-25
+03-07-2023,Hero,Splendor,150,51.5,196449,10,West,Dealer_14,46-55
+10-03-2023,Honda,CB350,250,49.6,239222,10,East,Dealer_19,46-55
+29-06-2024,Jawa,Bobber,200,50.9,210299,9,Central,Dealer_11,46-55
+06-05-2023,Bajaj,CT 100,400,29.8,103253,10,Central,Dealer_6,36-45
+12-02-2023,Jawa,42,150,57.1,96667,2,West,Dealer_20,36-45
+24-10-2024,Jawa,Bobber,250,43.8,250076,2,South,Dealer_6,18-25
+02-07-2023,TVS,Jupiter,350,44.2,130137,9,South,Dealer_18,36-45
+03-06-2024,Yamaha,Fascino,400,27.4,151264,9,West,Dealer_13,36-45
+26-12-2023,Hero,Glamour,350,60,201842,5,Central,Dealer_16,46-55
+14-07-2023,Yamaha,FZ,350,37.5,206689,10,West,Dealer_16,56+
+28-10-2024,Jawa,42,250,61.7,158518,3,South,Dealer_15,46-55
+25-09-2024,Honda,Shine,200,35.1,194024,2,West,Dealer_4,18-25
+20-02-2023,Hero,HF Deluxe,110,50,110557,5,West,Dealer_1,18-25
+09-02-2024,Jawa,Bobber,350,36.8,210378,9,East,Dealer_9,46-55
+27-05-2024,Jawa,Yezdi Roadster,125,39.4,228657,7,Central,Dealer_10,56+
+15-02-2023,Jawa,Bobber,200,23.5,224698,2,West,Dealer_14,36-45
+29-06-2024,Yamaha,MT-15,500,50.1,118120,5,Central,Dealer_15,36-45
+14-03-2023,Hero,XPulse 200,150,41.3,249361,3,East,Dealer_18,56+
+06-09-2023,Yamaha,MT-15,500,36.8,270139,1,East,Dealer_4,26-35
+25-02-2023,Bajaj,Pulsar 150,200,64.6,198218,10,West,Dealer_7,46-55
+16-12-2023,Jawa,Perak,110,43,204730,9,Central,Dealer_17,26-35
+03-12-2023,Honda,Shine,500,41.2,71288,8,North,Dealer_6,56+
+26-01-2023,Bajaj,Pulsar 150,125,34.4,180086,8,North,Dealer_2,56+
+30-10-2023,Royal Enfield,Meteor 350,125,46.8,296171,9,South,Dealer_11,18-25
+30-09-2024,Royal Enfield,Classic 350,400,45.4,188121,9,West,Dealer_19,36-45
+28-01-2023,Royal Enfield,Classic 350,250,44.6,178725,1,East,Dealer_15,26-35
+19-03-2023,Royal Enfield,Classic 350,500,45.6,155073,4,Central,Dealer_1,26-35
+09-06-2024,TVS,Raider,500,61.4,162634,3,South,Dealer_1,56+
+29-11-2024,Bajaj,Avenger,350,42.5,194801,3,South,Dealer_15,36-45
+14-09-2024,Suzuki,Access 125,110,53.5,173949,4,North,Dealer_11,46-55
+29-12-2023,Hero,XPulse 200,350,35.1,131258,10,West,Dealer_14,36-45
+20-05-2024,Suzuki,Intruder,125,35.3,244032,9,East,Dealer_16,36-45
+15-01-2023,Hero,HF Deluxe,500,45.8,257135,3,Central,Dealer_7,46-55
+28-01-2023,Jawa,42,150,47.9,228919,2,Central,Dealer_12,46-55
+14-12-2024,Honda,CB350,110,40.1,157499,9,North,Dealer_19,56+
+27-03-2023,Hero,XPulse 200,125,56.9,129001,9,South,Dealer_20,18-25
+18-04-2024,Honda,Shine,350,47.2,111412,8,South,Dealer_7,18-25
+08-06-2024,Honda,SP 125,200,29.4,247728,9,West,Dealer_11,36-45
+31-07-2023,Hero,XPulse 200,125,47.1,251175,10,South,Dealer_19,36-45
+21-08-2023,Royal Enfield,Hunter 350,110,23.2,298343,1,Central,Dealer_18,26-35
+19-04-2023,Bajaj,CT 100,110,41.1,177113,4,East,Dealer_18,56+
+14-04-2024,Honda,SP 125,500,70.7,102011,9,Central,Dealer_13,36-45
+03-02-2023,Suzuki,Gixxer,150,38.8,290004,8,South,Dealer_11,36-45
+17-08-2024,Suzuki,Gixxer,125,65.8,200500,1,West,Dealer_2,46-55
+07-07-2024,TVS,Ntorq,110,58.9,81532,8,North,Dealer_18,36-45
+09-10-2023,Suzuki,Intruder,125,36.2,173740,2,West,Dealer_2,18-25
+16-11-2023,Honda,Hornet 2.0,110,31.2,234757,8,Central,Dealer_20,36-45
+12-01-2024,Hero,HF Deluxe,110,25.9,91450,2,East,Dealer_11,18-25
+16-10-2023,Royal Enfield,Meteor 350,400,54.4,276039,4,South,Dealer_9,26-35
+16-12-2023,Honda,SP 125,200,42.9,190637,5,North,Dealer_19,36-45
+21-03-2024,Jawa,Yezdi Roadster,150,22.2,204323,1,North,Dealer_19,46-55
+17-05-2023,Honda,SP 125,250,36.7,155553,10,West,Dealer_6,46-55
+31-08-2023,Suzuki,Access 125,200,39.5,158319,7,East,Dealer_12,18-25
+07-10-2024,Jawa,42,400,53,238932,8,North,Dealer_20,46-55
+28-04-2023,Jawa,Perak,110,46.5,294231,8,South,Dealer_11,56+
+27-07-2024,Suzuki,Gixxer,110,37.8,209462,3,South,Dealer_20,36-45
+16-03-2024,Royal Enfield,Classic 350,500,39.7,177372,3,Central,Dealer_4,26-35
+26-01-2023,Royal Enfield,Bullet 350,200,47.9,270434,3,East,Dealer_15,18-25
+10-03-2024,TVS,Jupiter,110,62.8,294444,6,East,Dealer_19,36-45
+14-02-2024,Yamaha,FZ,200,40.7,140699,6,West,Dealer_8,46-55
+28-04-2023,Hero,Splendor,500,49.9,245207,8,South,Dealer_17,26-35
+15-06-2024,Yamaha,R15,350,35.9,177762,1,South,Dealer_16,26-35
+23-04-2023,Honda,SP 125,250,51.4,202347,9,East,Dealer_17,36-45
+15-10-2024,Honda,SP 125,150,63.5,201111,10,East,Dealer_14,46-55
+16-11-2023,TVS,Apache RTR,150,47.7,297778,1,West,Dealer_18,18-25
+25-05-2024,Yamaha,Fascino,250,45.1,128796,5,South,Dealer_10,46-55
+16-09-2023,Hero,Glamour,125,36.2,92675,9,Central,Dealer_6,18-25
+10-01-2023,Royal Enfield,Meteor 350,250,43.5,136832,3,South,Dealer_6,56+
+18-09-2023,Yamaha,MT-15,350,40.9,100236,5,West,Dealer_7,36-45
+17-11-2023,Bajaj,Pulsar 150,110,55.1,264081,4,North,Dealer_10,18-25
+15-11-2023,Honda,SP 125,125,39.2,197823,5,East,Dealer_14,26-35
+03-07-2024,TVS,Jupiter,200,56.1,281129,4,West,Dealer_7,18-25
+23-02-2024,Bajaj,Pulsar 150,200,52.7,268364,5,West,Dealer_14,26-35
+14-11-2023,Hero,HF Deluxe,110,50.8,138830,6,Central,Dealer_1,26-35
+24-08-2023,TVS,Ntorq,200,43,82093,3,West,Dealer_10,26-35
+03-04-2024,Yamaha,FZ,350,51.8,103992,10,West,Dealer_7,26-35
+17-05-2023,TVS,Ntorq,200,43.6,270850,9,North,Dealer_19,56+
+27-05-2024,Royal Enfield,Meteor 350,250,39.9,77804,8,Central,Dealer_19,26-35
+23-10-2023,Honda,SP 125,125,32.6,213432,9,North,Dealer_13,26-35
+17-08-2023,Hero,HF Deluxe,400,50.8,240485,6,North,Dealer_3,46-55
+27-09-2023,Royal Enfield,Bullet 350,500,50,203348,3,North,Dealer_18,26-35
+14-06-2023,Bajaj,Pulsar 150,500,50.2,213044,5,North,Dealer_8,46-55
+05-01-2023,Yamaha,Fascino,150,49.8,291881,2,East,Dealer_3,46-55
+27-07-2024,Hero,HF Deluxe,250,51.5,78094,1,North,Dealer_14,46-55
+12-05-2023,Jawa,Yezdi Roadster,400,32.1,93411,10,South,Dealer_9,18-25
+06-02-2024,Royal Enfield,Classic 350,500,53.2,107788,7,North,Dealer_13,56+
+23-10-2023,Royal Enfield,Classic 350,125,27.9,267171,6,East,Dealer_2,26-35
+21-11-2024,Jawa,Perak,110,62.7,84071,7,North,Dealer_19,56+
+28-09-2024,TVS,Apache RTR,400,41,264159,8,North,Dealer_2,18-25
+23-05-2023,Honda,Shine,110,55.5,112853,1,Central,Dealer_17,26-35
+26-10-2024,Jawa,Bobber,125,36.6,156702,1,Central,Dealer_20,26-35
+07-09-2024,Suzuki,Burgman,110,32.9,146911,1,North,Dealer_2,36-45
+14-04-2023,Honda,Shine,400,28.9,271614,4,Central,Dealer_19,26-35
+07-10-2024,Yamaha,R15,500,36.2,230411,8,Central,Dealer_14,36-45
+01-08-2024,Royal Enfield,Hunter 350,500,47.9,252198,10,East,Dealer_14,26-35
+23-03-2024,Yamaha,R15,500,30.2,128901,4,South,Dealer_20,26-35
+14-05-2024,Royal Enfield,Bullet 350,400,56.4,81272,8,West,Dealer_9,18-25
+22-04-2024,Jawa,Yezdi Roadster,200,50.1,160479,3,North,Dealer_2,56+
+19-08-2023,Royal Enfield,Bullet 350,400,57.5,83480,8,South,Dealer_3,46-55
+15-02-2024,Hero,Splendor,400,53.3,79255,4,North,Dealer_8,56+
+16-10-2023,Hero,HF Deluxe,125,55.1,116612,2,South,Dealer_6,56+
+05-06-2024,Hero,Glamour,200,45.7,199878,6,South,Dealer_19,18-25
+31-05-2024,Honda,Shine,250,40.2,178341,5,West,Dealer_1,26-35
+08-06-2023,TVS,Jupiter,110,41.5,94603,2,East,Dealer_14,36-45
+16-08-2023,Yamaha,FZ,500,53.3,178618,6,South,Dealer_12,26-35
+15-01-2023,Yamaha,R15,110,67.6,239253,1,East,Dealer_14,46-55
+06-06-2023,Bajaj,Avenger,125,35.7,127062,2,South,Dealer_18,26-35
+20-11-2023,Honda,SP 125,150,34.8,95879,3,West,Dealer_4,36-45
+15-11-2024,Royal Enfield,Classic 350,110,74.8,123569,2,Central,Dealer_17,56+
+19-10-2023,Honda,SP 125,200,53.7,94769,4,Central,Dealer_9,56+
+10-10-2023,Bajaj,CT 100,125,58.6,83829,8,West,Dealer_20,56+
+03-07-2024,Hero,XPulse 200,400,34.4,219693,10,West,Dealer_12,46-55
+14-05-2023,Royal Enfield,Bullet 350,350,39.9,120978,9,East,Dealer_1,36-45
+29-10-2023,Bajaj,Avenger,350,36.1,70777,3,South,Dealer_17,56+
+29-12-2023,Yamaha,FZ,400,21.8,140079,4,West,Dealer_19,18-25
+29-07-2023,TVS,Raider,200,47.8,279079,3,South,Dealer_18,18-25
+14-09-2024,Bajaj,Avenger,125,33.7,273381,10,East,Dealer_4,46-55
+22-12-2023,Royal Enfield,Hunter 350,150,51.4,175392,3,South,Dealer_18,46-55
+20-11-2023,Yamaha,FZ,150,60.6,175964,1,South,Dealer_2,36-45
+13-01-2024,Honda,SP 125,500,57,222849,7,North,Dealer_5,46-55
+20-02-2023,Yamaha,MT-15,110,51.7,265262,8,West,Dealer_14,36-45
+26-12-2024,Suzuki,Intruder,350,46.8,261453,9,North,Dealer_12,26-35
+11-02-2024,Bajaj,Avenger,200,46,112413,1,Central,Dealer_16,36-45
+12-12-2023,Hero,Glamour,125,41.7,280451,7,East,Dealer_19,56+
+13-09-2024,Yamaha,R15,350,40.3,244481,10,North,Dealer_19,56+
+01-01-2023,Hero,Glamour,400,49.2,160553,4,South,Dealer_19,46-55
+20-07-2024,Honda,CB350,125,41.1,240822,4,East,Dealer_20,26-35
+06-03-2024,TVS,Raider,110,50.4,72205,2,East,Dealer_9,18-25
+05-11-2023,Royal Enfield,Bullet 350,400,31.4,162414,5,West,Dealer_3,36-45
+27-04-2023,TVS,Ntorq,500,55.7,113228,10,North,Dealer_15,36-45
+27-10-2024,Suzuki,Access 125,400,39.2,154287,7,North,Dealer_19,46-55
+20-06-2024,Jawa,Perak,110,34.9,138104,9,North,Dealer_13,26-35
+24-08-2024,Suzuki,Gixxer,110,28.5,148528,9,North,Dealer_15,56+
+29-07-2023,Jawa,Perak,150,42.7,252322,1,Central,Dealer_9,18-25
+19-04-2024,Bajaj,Pulsar 150,500,51.3,219194,2,West,Dealer_6,56+
+28-06-2023,TVS,Apache RTR,200,41.6,162318,7,South,Dealer_2,46-55
+01-07-2023,TVS,Apache RTR,200,61.7,294867,1,East,Dealer_5,18-25
+10-12-2024,Honda,SP 125,500,44.9,210450,8,South,Dealer_18,36-45
+15-05-2024,Bajaj,Avenger,400,31.8,72918,3,West,Dealer_3,56+
+04-03-2023,Jawa,Perak,350,42.7,70172,6,West,Dealer_9,46-55
+23-10-2024,Royal Enfield,Bullet 350,150,52,264321,8,South,Dealer_17,56+
+18-02-2023,Bajaj,Avenger,350,38.3,285937,8,West,Dealer_16,46-55
+25-03-2023,Hero,Splendor,150,38.4,158338,1,North,Dealer_11,36-45
+08-12-2023,Hero,Splendor,350,67.8,118865,2,West,Dealer_15,26-35
+20-04-2024,Yamaha,R15,200,28.7,297676,5,North,Dealer_5,46-55
+23-11-2023,Yamaha,FZ,350,31.6,138954,9,North,Dealer_4,18-25
+21-05-2023,Hero,Glamour,400,46.5,96523,9,Central,Dealer_13,36-45
+23-12-2024,Yamaha,MT-15,150,31.4,174973,3,North,Dealer_15,26-35
+14-11-2023,Suzuki,Burgman,110,25.9,77850,5,East,Dealer_19,46-55
+04-03-2024,Suzuki,Burgman,150,39.3,189603,1,South,Dealer_17,36-45
+21-04-2024,Hero,Glamour,250,39.5,93572,7,East,Dealer_9,46-55
+18-01-2023,Hero,XPulse 200,350,70.7,83976,9,South,Dealer_1,18-25
+12-08-2024,Bajaj,Avenger,500,33.9,105675,8,North,Dealer_19,36-45
+16-05-2024,Jawa,Perak,350,47.3,188823,2,Central,Dealer_18,46-55
+23-04-2023,Honda,CB350,500,63.2,168507,3,South,Dealer_20,36-45
+05-10-2024,Yamaha,FZ,110,57.5,225185,6,South,Dealer_2,36-45
+21-09-2023,Suzuki,Burgman,200,24.3,101147,1,East,Dealer_8,46-55
+11-06-2023,Honda,Shine,400,30.9,117612,8,Central,Dealer_19,26-35
+15-01-2024,Jawa,Perak,500,37.2,146576,5,West,Dealer_7,36-45
+18-03-2024,Royal Enfield,Bullet 350,110,57.2,147828,4,South,Dealer_6,46-55
+24-11-2023,Suzuki,Burgman,150,23.3,171063,3,West,Dealer_3,18-25
+01-08-2024,Royal Enfield,Meteor 350,150,46,246956,2,South,Dealer_2,56+
+20-02-2023,Yamaha,R15,110,43.7,123310,1,West,Dealer_12,56+
+22-02-2024,Yamaha,R15,400,32.8,228995,10,Central,Dealer_8,56+
+06-04-2023,Bajaj,CT 100,500,52.1,111266,10,West,Dealer_20,46-55
+05-05-2024,TVS,Ntorq,110,45.1,166545,1,East,Dealer_18,18-25
+27-03-2024,Bajaj,Avenger,400,45.6,235398,9,West,Dealer_20,46-55
+07-01-2023,Yamaha,R15,500,28.1,173137,9,East,Dealer_17,56+
+26-11-2023,Jawa,42,250,36,239945,3,North,Dealer_19,26-35
+28-05-2024,TVS,Ntorq,200,28.3,111710,5,West,Dealer_14,36-45
+09-12-2024,Hero,Glamour,150,62.6,123028,9,East,Dealer_12,46-55
+21-01-2024,TVS,Jupiter,200,32.6,136197,7,Central,Dealer_1,36-45
+07-12-2024,Bajaj,CT 100,250,36.8,125840,10,North,Dealer_12,18-25
+18-09-2023,Hero,HF Deluxe,400,29.4,112460,3,North,Dealer_12,18-25
+13-09-2023,Hero,XPulse 200,500,51.1,101591,3,Central,Dealer_8,18-25
+14-05-2024,Bajaj,Pulsar 150,500,24.2,83134,7,Central,Dealer_2,18-25
+20-05-2024,TVS,Ntorq,400,62,127740,2,Central,Dealer_12,46-55
+14-12-2024,Bajaj,Avenger,200,39.6,152988,3,Central,Dealer_4,26-35
+07-06-2023,Honda,SP 125,350,49,278433,5,East,Dealer_18,56+
+08-05-2023,TVS,Ntorq,500,54.7,111203,10,South,Dealer_14,26-35
+21-12-2024,Honda,Shine,400,44.7,270193,1,Central,Dealer_2,46-55
+04-06-2024,Hero,Splendor,500,67.8,297554,6,East,Dealer_17,36-45
+05-07-2024,Hero,Glamour,500,17.2,101199,8,East,Dealer_13,46-55
+20-07-2023,TVS,Jupiter,110,37.1,295419,1,South,Dealer_18,18-25
+05-10-2023,Hero,Glamour,200,61.2,151919,1,East,Dealer_16,56+
+27-12-2024,Jawa,Yezdi Roadster,250,32.1,227370,3,Central,Dealer_3,18-25
+16-03-2023,Hero,Glamour,400,46,76760,7,South,Dealer_16,18-25
+11-02-2023,Royal Enfield,Meteor 350,350,46.2,236133,7,East,Dealer_14,36-45
+22-12-2023,Hero,Glamour,200,58.1,243489,8,Central,Dealer_11,56+
+07-11-2024,Royal Enfield,Bullet 350,125,37.4,240522,4,West,Dealer_6,26-35
+02-06-2023,Bajaj,CT 100,500,45,166504,7,West,Dealer_18,18-25
+20-09-2024,TVS,Apache RTR,125,63.1,74867,8,West,Dealer_11,36-45
+08-12-2023,Yamaha,MT-15,350,44.8,73266,2,Central,Dealer_17,46-55
+25-09-2023,Bajaj,Dominar 400,200,47.6,146006,4,South,Dealer_16,36-45
+30-03-2024,Hero,Splendor,110,54.8,140656,9,North,Dealer_20,46-55
+20-04-2024,Royal Enfield,Bullet 350,110,56.9,212151,10,South,Dealer_13,56+
+02-12-2024,Yamaha,MT-15,500,47.6,146702,4,Central,Dealer_18,18-25
+29-12-2023,TVS,Raider,110,38.8,89443,5,East,Dealer_7,26-35
+05-12-2024,Jawa,Bobber,110,45.3,252694,4,North,Dealer_14,46-55
+29-01-2023,Royal Enfield,Classic 350,200,46.9,257492,8,Central,Dealer_9,46-55
+29-05-2023,Jawa,Perak,150,37.4,233335,3,East,Dealer_20,18-25
+06-11-2024,Suzuki,Intruder,125,42.7,157881,1,South,Dealer_5,36-45
+23-04-2023,Bajaj,Pulsar 150,250,57.1,88186,6,North,Dealer_7,26-35
+06-11-2023,Honda,CB350,500,52.5,280362,7,South,Dealer_14,46-55
+08-04-2023,Royal Enfield,Meteor 350,125,60,160389,5,South,Dealer_18,18-25
+10-02-2024,Royal Enfield,Meteor 350,110,50.2,272353,4,West,Dealer_5,18-25
+10-03-2023,Hero,Glamour,150,43.8,116746,4,South,Dealer_16,56+
+28-05-2023,TVS,Apache RTR,125,27.5,267899,10,Central,Dealer_16,26-35
+11-04-2024,Royal Enfield,Classic 350,200,43.8,89437,8,South,Dealer_13,18-25
+21-05-2024,Royal Enfield,Meteor 350,200,39.2,78554,2,South,Dealer_3,36-45
+31-12-2023,Honda,Shine,400,46.2,71160,6,North,Dealer_16,56+
+25-03-2024,Bajaj,Dominar 400,150,48.7,81254,4,South,Dealer_8,46-55
+15-05-2024,Suzuki,Gixxer,110,34.5,277171,1,West,Dealer_18,56+
+02-10-2024,Yamaha,Fascino,125,32.3,109153,5,East,Dealer_9,56+
+05-08-2023,Honda,Shine,500,31.7,131528,4,North,Dealer_10,36-45
+25-01-2023,Jawa,Perak,500,52.7,230819,9,South,Dealer_3,56+
+08-02-2023,Suzuki,Access 125,350,61,175695,10,North,Dealer_2,46-55
+17-01-2023,Bajaj,Dominar 400,110,54.9,184818,7,South,Dealer_11,18-25
+26-11-2023,Yamaha,Fascino,400,39.1,103300,4,North,Dealer_20,46-55
+12-01-2023,Royal Enfield,Classic 350,110,47.2,276470,7,South,Dealer_12,56+
+14-11-2023,Bajaj,Pulsar 150,150,64.5,153302,7,South,Dealer_12,46-55
+29-04-2024,Bajaj,Avenger,400,57.8,129629,6,North,Dealer_20,56+
+09-01-2024,Yamaha,FZ,110,51.9,176289,10,South,Dealer_7,26-35
+10-04-2024,TVS,Ntorq,125,45.4,124637,6,South,Dealer_9,46-55
+30-03-2023,TVS,Raider,350,45.1,111658,2,North,Dealer_10,26-35
+03-05-2024,Royal Enfield,Meteor 350,400,58.5,253825,10,West,Dealer_7,36-45
+21-06-2024,Hero,Glamour,110,55.3,184543,9,North,Dealer_14,56+
+01-12-2023,Bajaj,Avenger,350,53.2,244840,10,East,Dealer_19,56+
+20-09-2024,Royal Enfield,Classic 350,125,46.3,193076,7,West,Dealer_11,46-55
+12-05-2024,Suzuki,Gixxer,200,36.8,224943,1,East,Dealer_18,36-45
+27-12-2024,Honda,Hornet 2.0,350,51.2,167060,1,South,Dealer_15,56+
+07-01-2024,TVS,Jupiter,110,51.6,279770,10,East,Dealer_18,36-45
+06-02-2024,Royal Enfield,Hunter 350,400,52.9,87949,4,Central,Dealer_12,18-25
+09-06-2024,Hero,HF Deluxe,110,66.9,192109,5,South,Dealer_5,46-55
+08-06-2023,Jawa,Perak,150,48.4,177265,4,East,Dealer_9,56+
+08-04-2023,Royal Enfield,Classic 350,150,54,121706,8,South,Dealer_16,26-35
+11-05-2023,Hero,HF Deluxe,110,24.9,71802,9,South,Dealer_16,26-35
+02-07-2023,Royal Enfield,Hunter 350,500,34.6,127876,7,West,Dealer_5,46-55
+30-12-2023,TVS,Ntorq,200,57.8,100432,8,North,Dealer_8,46-55
+30-05-2024,Yamaha,R15,250,58.3,130691,6,West,Dealer_14,18-25
+15-12-2023,Hero,Splendor,200,48.2,251545,9,West,Dealer_19,26-35
+10-06-2023,Jawa,Bobber,500,57.3,70520,1,Central,Dealer_17,46-55
+16-01-2023,TVS,Ntorq,400,53.4,220801,4,Central,Dealer_15,46-55
+25-03-2024,Jawa,Yezdi Roadster,400,55.1,236477,8,North,Dealer_18,46-55
+07-11-2023,Suzuki,Burgman,400,43,202483,7,North,Dealer_1,18-25
+08-09-2023,Yamaha,MT-15,125,47.6,177727,3,Central,Dealer_6,46-55
+21-05-2023,Suzuki,Access 125,500,44.8,264980,5,South,Dealer_2,46-55
+08-02-2023,Bajaj,Dominar 400,350,51.4,183443,3,West,Dealer_1,18-25
+29-01-2023,Hero,Splendor,150,43.3,197815,1,West,Dealer_4,56+
+02-09-2023,Suzuki,Intruder,350,39.8,99876,10,West,Dealer_7,26-35
+27-11-2024,Royal Enfield,Bullet 350,250,59.1,236105,2,West,Dealer_17,18-25
+12-01-2024,Bajaj,CT 100,150,28.9,223877,6,North,Dealer_14,18-25
+23-09-2023,Honda,Shine,150,50.7,150838,7,West,Dealer_20,36-45
+06-12-2023,Bajaj,Pulsar 150,200,42.3,258819,3,East,Dealer_15,56+
+24-01-2024,Royal Enfield,Classic 350,200,38.4,189733,3,Central,Dealer_12,36-45
+20-11-2023,Honda,SP 125,250,26.4,168773,6,East,Dealer_1,56+
+26-05-2023,Jawa,Bobber,500,42,83409,10,South,Dealer_18,18-25
+10-12-2023,Yamaha,MT-15,500,25.7,248299,3,South,Dealer_20,18-25
+20-05-2023,Honda,SP 125,110,32.9,91678,10,East,Dealer_3,56+
+15-03-2024,Yamaha,FZ,400,50.6,97323,2,North,Dealer_20,18-25
+15-11-2023,Yamaha,Fascino,200,29.7,232583,5,East,Dealer_6,26-35
+14-08-2023,TVS,Ntorq,125,44.5,135963,6,West,Dealer_15,46-55
+02-06-2023,Bajaj,Pulsar 150,350,51.7,286120,1,North,Dealer_6,18-25
+06-08-2024,Yamaha,R15,400,44,150363,6,West,Dealer_5,26-35
+21-10-2024,Jawa,Perak,350,45.5,76481,7,South,Dealer_18,18-25
+31-08-2023,TVS,Apache RTR,500,40.2,243396,10,South,Dealer_2,56+
+07-05-2024,Yamaha,FZ,500,51,260464,6,South,Dealer_7,18-25
+20-05-2024,Jawa,Perak,400,40.8,266018,1,West,Dealer_9,36-45
+16-09-2023,Jawa,Perak,350,44,258947,1,South,Dealer_9,26-35
+23-02-2023,Royal Enfield,Hunter 350,400,49.7,254154,9,West,Dealer_13,26-35
+16-02-2023,Suzuki,Burgman,500,50.1,289926,4,Central,Dealer_7,18-25
+20-01-2023,Suzuki,Intruder,400,46,75992,5,West,Dealer_2,26-35
+26-07-2024,Jawa,Perak,150,30,107279,7,Central,Dealer_12,46-55
+03-03-2023,Honda,CB350,500,46.1,116595,5,North,Dealer_12,18-25
+25-05-2023,Honda,Hornet 2.0,125,27.9,270960,5,East,Dealer_7,46-55
+30-04-2023,Royal Enfield,Bullet 350,125,48.4,116503,4,South,Dealer_3,46-55
+30-03-2023,Bajaj,CT 100,250,41.2,235732,6,East,Dealer_11,26-35
+01-09-2024,Honda,Hornet 2.0,400,60.5,134397,2,Central,Dealer_14,26-35
+24-09-2023,Bajaj,Pulsar 150,500,63,236301,5,North,Dealer_14,18-25
+24-06-2024,Jawa,Bobber,500,41.4,140913,1,North,Dealer_4,46-55
+10-10-2024,Bajaj,Dominar 400,110,50.8,174544,6,South,Dealer_12,26-35
+20-06-2024,Bajaj,Pulsar 150,400,44.3,202806,6,East,Dealer_18,56+
+18-09-2023,Hero,Glamour,125,43.1,283158,6,East,Dealer_13,46-55
+04-05-2023,TVS,Ntorq,400,35.9,218476,7,East,Dealer_5,18-25
+07-02-2023,Yamaha,Fascino,125,54.7,284350,10,Central,Dealer_20,56+
+24-08-2024,Yamaha,R15,125,53.8,270329,5,West,Dealer_16,56+
+29-03-2024,TVS,Jupiter,150,35.5,94735,1,East,Dealer_7,18-25
+19-11-2023,Honda,Shine,250,54.1,154677,3,West,Dealer_12,36-45
+21-07-2024,Royal Enfield,Hunter 350,150,45.4,85700,7,Central,Dealer_13,18-25
+16-10-2023,Honda,Hornet 2.0,500,50.4,291284,6,North,Dealer_4,26-35
+19-09-2023,Royal Enfield,Bullet 350,110,65.2,167150,6,West,Dealer_14,26-35
+02-04-2023,Hero,XPulse 200,400,56,290100,6,West,Dealer_19,46-55
+19-12-2023,Bajaj,Avenger,125,45.6,243968,8,South,Dealer_16,56+
+29-12-2023,Yamaha,MT-15,125,42.3,192820,1,Central,Dealer_5,26-35
+10-07-2024,Bajaj,Avenger,125,42.3,136067,4,East,Dealer_2,26-35
+10-07-2023,Royal Enfield,Meteor 350,150,55.7,80344,10,West,Dealer_7,18-25
+28-10-2024,Yamaha,Fascino,150,56.7,196537,1,South,Dealer_5,56+
+10-07-2024,Honda,Shine,150,38.5,260971,8,East,Dealer_8,18-25
+31-01-2023,Royal Enfield,Classic 350,400,49.8,74283,10,East,Dealer_18,26-35
+29-12-2023,Suzuki,Access 125,500,43.3,144999,4,East,Dealer_1,56+
+12-03-2024,Suzuki,Intruder,125,46.5,205095,1,North,Dealer_14,36-45
+22-12-2023,Honda,Hornet 2.0,125,38.1,134709,1,East,Dealer_17,56+
+15-09-2023,Suzuki,Gixxer,400,49.9,121372,7,West,Dealer_20,46-55
+22-10-2023,Jawa,Yezdi Roadster,200,45.3,159316,1,East,Dealer_17,26-35
+12-08-2023,Suzuki,Gixxer,125,57.8,254389,2,North,Dealer_7,46-55
+21-08-2023,Bajaj,CT 100,250,42.5,169939,2,Central,Dealer_17,26-35
+17-01-2023,Bajaj,Avenger,110,39.1,71538,1,East,Dealer_19,46-55
+23-03-2024,Suzuki,Burgman,250,42.2,288849,8,Central,Dealer_2,56+
+31-12-2023,Yamaha,Fascino,200,36.2,286446,1,West,Dealer_18,56+
+18-02-2024,Bajaj,Avenger,400,41.9,273804,2,West,Dealer_4,36-45
+30-03-2024,Bajaj,Dominar 400,250,47.2,111917,2,West,Dealer_12,36-45
+16-02-2024,Jawa,42,150,50.4,89539,1,Central,Dealer_20,36-45
+25-07-2024,Suzuki,Burgman,500,45.5,231542,9,South,Dealer_3,18-25
+05-10-2023,Suzuki,Intruder,250,50.6,276204,7,South,Dealer_18,56+
+15-07-2023,Royal Enfield,Bullet 350,400,38,208154,5,East,Dealer_15,18-25
+20-11-2023,Yamaha,R15,125,50.2,252099,6,North,Dealer_2,56+
+11-07-2023,TVS,Ntorq,200,38.8,194410,3,Central,Dealer_2,18-25
+05-12-2024,Royal Enfield,Classic 350,400,41.4,177558,3,West,Dealer_11,56+
+22-01-2023,Yamaha,FZ,400,46.7,266398,1,West,Dealer_9,26-35
+02-11-2023,Jawa,42,200,40.2,182798,7,North,Dealer_17,56+
+27-09-2023,Suzuki,Intruder,200,46.3,102949,7,Central,Dealer_3,26-35
+16-01-2024,Jawa,Yezdi Roadster,150,39.4,83419,7,Central,Dealer_10,18-25
+04-04-2024,Yamaha,FZ,125,48.8,189230,8,West,Dealer_19,36-45
+03-04-2024,Suzuki,Intruder,200,43.7,211844,10,West,Dealer_16,46-55
+23-07-2024,TVS,Apache RTR,110,24.6,177306,6,West,Dealer_3,36-45
+09-04-2023,Bajaj,Pulsar 150,350,51.8,96243,7,North,Dealer_2,26-35
+01-02-2024,Yamaha,FZ,200,44.5,91435,8,South,Dealer_19,26-35
+06-06-2023,Jawa,42,400,45.9,106203,6,North,Dealer_19,56+
+16-03-2023,Hero,Glamour,250,56.7,93435,10,Central,Dealer_20,26-35
+22-06-2024,Honda,Shine,400,56.2,206191,9,South,Dealer_2,26-35
+07-12-2024,Suzuki,Access 125,150,58.1,237277,3,North,Dealer_6,36-45
+25-03-2023,Suzuki,Access 125,125,51.5,87031,3,Central,Dealer_15,18-25
+20-10-2024,Hero,Glamour,350,44,71776,6,West,Dealer_11,46-55
+10-06-2024,Jawa,Bobber,200,54,167774,9,North,Dealer_3,26-35
+11-06-2023,Jawa,Yezdi Roadster,150,42.9,117184,4,East,Dealer_10,56+
+28-09-2023,Hero,Glamour,200,32.5,175014,3,West,Dealer_1,56+
+06-05-2024,Suzuki,Burgman,250,59.4,245675,6,North,Dealer_15,36-45
+05-03-2024,Hero,Glamour,110,50.1,135809,9,West,Dealer_6,18-25
+18-10-2024,Suzuki,Access 125,350,44.7,158209,4,East,Dealer_16,18-25
+18-07-2023,Yamaha,MT-15,350,61.3,182734,9,East,Dealer_1,18-25
+22-01-2024,Suzuki,Access 125,150,20.2,227101,5,Central,Dealer_8,36-45
+19-06-2024,TVS,Jupiter,150,38.5,94027,10,North,Dealer_15,26-35
+13-01-2024,Bajaj,Avenger,110,54.4,99068,5,North,Dealer_6,46-55
+02-06-2023,Bajaj,Pulsar 150,500,57.5,253019,1,South,Dealer_8,36-45
+25-07-2023,Royal Enfield,Bullet 350,150,49.9,151791,7,East,Dealer_9,46-55
+04-06-2024,TVS,Raider,200,61.4,122352,3,North,Dealer_5,36-45
+08-11-2024,Jawa,Yezdi Roadster,250,60,267390,5,East,Dealer_2,56+
+26-12-2024,Bajaj,Avenger,350,39.3,253418,5,West,Dealer_19,26-35
+15-05-2024,Jawa,Perak,500,40.4,255647,2,North,Dealer_3,46-55
+30-01-2024,Suzuki,Burgman,400,53.4,242081,6,Central,Dealer_1,26-35
+05-03-2023,TVS,Raider,150,38.5,254362,4,Central,Dealer_17,56+
+01-10-2023,TVS,Jupiter,350,42.2,236425,4,North,Dealer_9,26-35
+16-11-2023,Hero,Glamour,110,44.7,177685,8,West,Dealer_13,56+
+15-06-2023,Hero,Glamour,125,48.3,111419,1,Central,Dealer_18,18-25
+27-06-2024,Royal Enfield,Classic 350,500,44.3,188765,9,North,Dealer_18,56+
+12-04-2023,Suzuki,Access 125,400,57.2,238619,1,West,Dealer_2,56+
+29-02-2024,TVS,Apache RTR,500,52.4,149375,10,East,Dealer_8,46-55
+29-03-2023,Bajaj,Dominar 400,500,44.8,100415,9,North,Dealer_3,18-25
+06-07-2024,TVS,Raider,200,39.3,252548,2,Central,Dealer_18,26-35
+27-03-2023,Yamaha,MT-15,250,45,135766,7,South,Dealer_11,18-25
+02-04-2023,Bajaj,Pulsar 150,150,33.4,70427,7,East,Dealer_15,36-45
+30-08-2023,Hero,Splendor,125,50.2,154069,4,West,Dealer_12,36-45
+02-01-2023,Suzuki,Gixxer,200,62.8,166687,5,West,Dealer_7,26-35
+11-08-2024,Honda,Shine,110,55.2,176984,7,West,Dealer_9,46-55
+26-04-2023,TVS,Jupiter,400,45.9,129015,7,Central,Dealer_1,56+
+15-06-2023,Hero,Glamour,110,31.1,294561,10,Central,Dealer_14,36-45
+31-03-2023,Suzuki,Intruder,400,33.9,159399,1,Central,Dealer_16,56+
+16-04-2023,Hero,XPulse 200,250,54.9,228389,7,South,Dealer_17,26-35
+03-03-2024,Honda,Hornet 2.0,350,51.2,134779,5,South,Dealer_18,46-55
+26-09-2024,TVS,Raider,125,47.8,128896,7,East,Dealer_14,56+
+09-01-2023,Suzuki,Intruder,250,37,273862,2,West,Dealer_11,46-55
+21-09-2023,Jawa,Yezdi Roadster,110,63.1,286854,7,North,Dealer_16,18-25
+20-11-2024,Suzuki,Access 125,500,48.6,261679,10,North,Dealer_18,18-25
+21-04-2023,Suzuki,Intruder,150,57.7,101157,3,North,Dealer_15,56+
+08-09-2023,TVS,Jupiter,350,50.6,126370,9,East,Dealer_13,36-45
+27-07-2023,Jawa,Bobber,200,66.2,274943,3,South,Dealer_19,46-55
+25-01-2024,Yamaha,MT-15,350,42.9,72560,3,South,Dealer_1,46-55
+29-05-2024,Suzuki,Access 125,250,43,204257,8,Central,Dealer_17,26-35
+07-05-2023,Hero,XPulse 200,150,58.2,136069,5,East,Dealer_20,18-25
+12-01-2023,Honda,SP 125,125,62.4,138229,8,West,Dealer_18,18-25
+28-03-2023,Yamaha,R15,250,47,146738,4,Central,Dealer_6,26-35
+31-08-2023,Honda,CB350,400,42,184010,3,North,Dealer_18,18-25
+02-05-2023,Bajaj,Pulsar 150,250,66.6,131040,5,South,Dealer_19,46-55
+15-11-2024,Suzuki,Gixxer,110,41.5,209742,3,Central,Dealer_11,36-45
+22-09-2024,Royal Enfield,Hunter 350,500,24.7,83238,1,South,Dealer_9,36-45
+16-08-2024,Jawa,Bobber,200,39.4,81818,5,North,Dealer_10,26-35
+23-12-2024,Yamaha,FZ,125,44.2,111352,4,East,Dealer_11,56+
+14-12-2024,Bajaj,CT 100,150,45.4,269567,8,West,Dealer_7,18-25
+04-02-2023,TVS,Apache RTR,110,46.2,73410,9,West,Dealer_7,36-45
+26-07-2023,Suzuki,Intruder,350,40.9,232697,4,South,Dealer_10,46-55
+19-12-2023,Honda,Hornet 2.0,400,30.9,283573,4,West,Dealer_12,18-25
+25-12-2024,Honda,CB350,150,41.6,81473,2,South,Dealer_11,26-35
+08-06-2023,TVS,Ntorq,110,48.5,90702,8,East,Dealer_15,18-25
+30-05-2024,Suzuki,Gixxer,400,56.3,99198,3,North,Dealer_18,56+
+30-12-2023,Honda,Hornet 2.0,350,42.3,105761,2,East,Dealer_7,56+
+15-07-2024,Hero,HF Deluxe,110,45.3,214930,8,East,Dealer_15,36-45
+19-11-2024,Jawa,Yezdi Roadster,125,60.8,113266,2,East,Dealer_14,26-35
+07-09-2023,Bajaj,Dominar 400,200,70.9,249592,1,South,Dealer_11,18-25
+27-04-2023,Suzuki,Burgman,350,49.1,211446,3,North,Dealer_7,56+
+01-12-2023,Jawa,Bobber,500,60.7,273682,9,East,Dealer_14,36-45
+22-02-2024,Yamaha,Fascino,400,29.6,271317,4,East,Dealer_17,18-25
+06-01-2024,Royal Enfield,Meteor 350,400,51,246482,7,West,Dealer_13,46-55
+05-07-2023,Yamaha,FZ,350,56.3,280068,6,South,Dealer_12,46-55
+03-06-2024,Yamaha,FZ,150,59.8,251857,9,West,Dealer_12,26-35
+10-04-2023,TVS,Jupiter,150,58.8,255844,7,North,Dealer_1,56+
+06-07-2024,Bajaj,Dominar 400,150,48.2,102731,7,North,Dealer_9,56+
+14-11-2023,Bajaj,Avenger,400,42.1,231312,7,South,Dealer_15,36-45
+14-01-2023,Hero,Glamour,150,43,193073,3,North,Dealer_2,26-35
+18-05-2024,Suzuki,Burgman,400,36.5,146866,4,Central,Dealer_1,26-35
+25-05-2023,TVS,Ntorq,500,63.1,253587,9,North,Dealer_19,26-35
+28-01-2023,Jawa,Bobber,125,53.8,108444,3,East,Dealer_20,18-25
+24-03-2024,Yamaha,Fascino,110,53.1,145337,1,West,Dealer_16,46-55
+28-02-2024,Honda,SP 125,400,32.5,205622,8,South,Dealer_8,18-25
+30-10-2023,Suzuki,Gixxer,350,28.8,166907,4,West,Dealer_12,56+
+14-10-2023,Suzuki,Gixxer,400,60.5,228100,2,Central,Dealer_7,26-35
+27-12-2023,Jawa,Perak,500,45.8,214076,8,West,Dealer_11,26-35
+14-09-2023,Bajaj,CT 100,200,32.2,236056,10,South,Dealer_20,18-25
+27-05-2024,Jawa,Yezdi Roadster,350,66.9,213524,7,East,Dealer_3,36-45
+09-11-2023,Hero,Glamour,125,32.4,196791,7,South,Dealer_12,26-35
+01-05-2023,Hero,HF Deluxe,500,41.5,155413,5,South,Dealer_15,46-55
+17-04-2023,Yamaha,Fascino,400,41.5,149149,3,Central,Dealer_9,18-25
+14-06-2023,Yamaha,MT-15,400,53.5,156072,6,West,Dealer_9,46-55
+01-11-2023,Honda,CB350,500,57.2,218208,2,East,Dealer_16,56+
+05-06-2023,Suzuki,Access 125,250,48.8,207833,1,Central,Dealer_1,18-25
+02-01-2024,Bajaj,Avenger,150,49.3,71544,10,East,Dealer_4,26-35
+30-11-2023,Royal Enfield,Bullet 350,110,42,190923,10,North,Dealer_13,26-35
+03-10-2024,Hero,XPulse 200,200,48.8,120653,9,South,Dealer_8,56+
+09-10-2023,Hero,Glamour,125,41.8,276984,9,South,Dealer_10,26-35
+01-01-2023,Honda,Shine,250,40.5,124714,8,East,Dealer_15,18-25
+28-02-2023,Royal Enfield,Meteor 350,110,43.7,93692,3,East,Dealer_16,26-35
+10-06-2023,Hero,Glamour,400,34.7,85325,6,East,Dealer_6,46-55
+04-05-2024,Hero,XPulse 200,125,39.1,256276,6,North,Dealer_15,46-55
+03-10-2023,Jawa,Bobber,350,45.1,97573,4,Central,Dealer_5,56+
+11-08-2023,Jawa,42,500,54.2,106483,6,West,Dealer_15,36-45
+03-07-2023,Yamaha,FZ,110,48.5,172051,9,East,Dealer_11,36-45
+03-03-2024,Bajaj,Dominar 400,110,24,299889,7,East,Dealer_19,26-35
+21-10-2023,Bajaj,Avenger,500,74.4,258208,6,North,Dealer_4,18-25
+10-01-2024,Jawa,Bobber,400,56.1,208813,4,North,Dealer_17,18-25
+08-01-2023,Suzuki,Burgman,500,34.6,299101,9,West,Dealer_20,36-45
+31-05-2024,TVS,Jupiter,200,38.8,218586,7,North,Dealer_13,18-25
+09-05-2024,Bajaj,Dominar 400,125,64.1,299267,4,South,Dealer_10,36-45
+07-11-2023,Jawa,Bobber,400,50.5,207404,2,West,Dealer_11,18-25
+29-04-2023,TVS,Raider,400,35.8,230356,7,West,Dealer_16,26-35
+24-04-2023,Honda,SP 125,150,46.5,161039,3,West,Dealer_1,26-35
+25-05-2023,Suzuki,Access 125,110,48.6,227236,8,West,Dealer_12,36-45
+10-08-2024,Hero,XPulse 200,200,46.8,201341,2,East,Dealer_5,46-55
+11-12-2023,Bajaj,Dominar 400,500,46.7,207366,1,West,Dealer_20,46-55
+27-05-2023,Bajaj,Dominar 400,400,56.1,152566,1,Central,Dealer_8,56+
+14-10-2023,Bajaj,Avenger,400,56.9,165011,5,West,Dealer_12,18-25
+10-03-2023,TVS,Apache RTR,150,34.1,136380,8,South,Dealer_20,46-55
+27-12-2023,Bajaj,Dominar 400,250,61.3,195901,6,North,Dealer_12,18-25
+04-12-2024,Bajaj,Avenger,125,48,283704,3,South,Dealer_18,36-45
+28-07-2024,Honda,Hornet 2.0,110,37.5,87045,1,Central,Dealer_12,18-25
+18-11-2024,Honda,CB350,400,44.4,208798,8,Central,Dealer_3,56+
+07-08-2024,Jawa,Perak,250,48.3,91582,5,West,Dealer_10,56+
+20-11-2023,Bajaj,Avenger,200,42.4,166316,7,South,Dealer_18,56+
+01-09-2024,Jawa,42,150,39.9,222618,7,South,Dealer_2,46-55
+05-09-2024,Honda,SP 125,400,28.2,181104,10,South,Dealer_12,18-25
+19-01-2023,Royal Enfield,Bullet 350,150,35.7,243734,6,North,Dealer_16,56+
+06-10-2023,Honda,Shine,125,51,197864,3,East,Dealer_2,46-55
+31-12-2023,Bajaj,Pulsar 150,400,52,190206,5,Central,Dealer_2,56+
+30-03-2024,Suzuki,Gixxer,250,43.5,285693,1,West,Dealer_20,26-35
+23-08-2024,Honda,SP 125,350,46.3,190799,7,Central,Dealer_9,18-25
+11-12-2024,TVS,Ntorq,400,56.1,200013,1,North,Dealer_20,18-25
+23-05-2023,Yamaha,Fascino,250,30.4,179615,10,Central,Dealer_3,26-35
+17-04-2024,TVS,Apache RTR,200,36.1,180630,1,West,Dealer_2,26-35
+21-02-2024,Honda,CB350,500,60.5,71772,6,North,Dealer_14,56+
+12-04-2023,Suzuki,Gixxer,250,38.6,92901,5,West,Dealer_4,26-35
+24-09-2023,Bajaj,CT 100,350,31.8,187164,8,North,Dealer_12,36-45
+03-01-2023,Royal Enfield,Classic 350,200,61.4,140566,2,East,Dealer_5,46-55
+26-03-2023,Suzuki,Intruder,250,55.1,84695,8,West,Dealer_19,36-45
+29-03-2024,Jawa,Yezdi Roadster,125,45.6,193933,4,East,Dealer_9,36-45
+20-09-2024,Honda,Hornet 2.0,150,56.3,260313,9,Central,Dealer_15,36-45
+27-10-2023,Royal Enfield,Classic 350,200,45.9,261758,5,West,Dealer_19,26-35
+12-02-2023,Jawa,Perak,350,33.2,269889,2,West,Dealer_17,46-55
+12-05-2024,Hero,Glamour,500,51.8,220250,3,East,Dealer_1,18-25
+30-12-2023,Yamaha,Fascino,250,50.8,188530,1,West,Dealer_20,36-45
+15-12-2024,Suzuki,Intruder,150,52.6,132692,6,Central,Dealer_19,36-45
+20-02-2023,Yamaha,R15,110,47.8,212238,1,North,Dealer_5,36-45
+08-01-2024,Honda,Hornet 2.0,400,37.5,179150,9,Central,Dealer_7,36-45
+17-07-2024,Suzuki,Burgman,125,42.2,152940,7,East,Dealer_13,36-45
+05-06-2023,Bajaj,Avenger,125,50.2,106944,5,East,Dealer_13,46-55
+18-10-2023,Yamaha,FZ,150,47.1,189687,5,South,Dealer_3,46-55
+31-10-2024,Jawa,42,500,36.7,144007,3,West,Dealer_2,56+
+19-10-2024,Royal Enfield,Bullet 350,350,46.6,240520,3,South,Dealer_11,56+
+31-03-2023,Bajaj,Avenger,400,48.2,226405,7,East,Dealer_15,18-25
+11-12-2023,Suzuki,Burgman,500,44.3,98287,5,East,Dealer_2,18-25
+18-04-2023,TVS,Jupiter,500,34.4,86394,5,South,Dealer_2,36-45
+08-08-2024,Bajaj,Dominar 400,110,45.6,203464,2,West,Dealer_3,46-55
+08-11-2023,Suzuki,Burgman,200,39.6,217085,5,North,Dealer_13,36-45
+29-08-2023,Hero,HF Deluxe,150,50.1,290403,2,South,Dealer_16,36-45
+05-02-2023,TVS,Jupiter,500,29.1,76529,4,Central,Dealer_3,46-55
+25-03-2023,Honda,CB350,125,49.4,96642,8,Central,Dealer_18,18-25
+20-01-2024,TVS,Apache RTR,350,59,219778,9,East,Dealer_14,46-55
+21-06-2023,Suzuki,Access 125,400,44.2,86907,7,South,Dealer_12,46-55
+21-05-2023,Yamaha,Fascino,400,46.3,221221,1,East,Dealer_2,18-25
+28-04-2023,Hero,HF Deluxe,400,40.7,299752,6,East,Dealer_4,56+
+26-01-2023,Jawa,Bobber,125,70.5,182666,9,Central,Dealer_19,26-35
+04-06-2024,TVS,Ntorq,500,49.1,273045,7,South,Dealer_9,56+
+24-09-2024,Bajaj,CT 100,350,34.4,144442,6,Central,Dealer_3,18-25
+28-09-2024,Honda,SP 125,400,49.8,85776,4,East,Dealer_19,46-55
+18-02-2023,Yamaha,FZ,125,46.8,149458,1,West,Dealer_1,18-25
+03-06-2023,Yamaha,R15,250,47.7,95438,7,South,Dealer_19,26-35
+25-10-2024,Bajaj,CT 100,125,36.4,87583,8,South,Dealer_9,26-35
+14-06-2024,Suzuki,Intruder,200,34.4,150957,5,North,Dealer_8,46-55
+26-05-2023,Suzuki,Gixxer,350,49.4,101950,5,Central,Dealer_18,26-35
+06-11-2024,TVS,Jupiter,110,53.9,79530,4,Central,Dealer_19,46-55
+03-08-2024,Yamaha,Fascino,150,42.6,102464,2,South,Dealer_15,36-45
+17-11-2024,TVS,Ntorq,125,33.7,294203,6,South,Dealer_20,36-45
+03-11-2024,Royal Enfield,Meteor 350,110,50,207652,3,South,Dealer_4,56+
+22-09-2024,Bajaj,Dominar 400,110,41.4,182836,6,West,Dealer_5,56+
+16-10-2024,Bajaj,CT 100,125,31.9,269037,3,West,Dealer_4,18-25
+23-02-2024,Yamaha,MT-15,110,46.4,115681,5,Central,Dealer_14,18-25
+11-10-2024,Royal Enfield,Bullet 350,500,54.6,280236,2,West,Dealer_13,18-25
+12-08-2024,Jawa,Perak,200,67.1,251655,2,South,Dealer_16,18-25
+16-11-2023,Suzuki,Access 125,150,39.5,260665,5,Central,Dealer_20,46-55
+20-09-2023,Bajaj,Avenger,150,46.6,123571,8,East,Dealer_18,46-55
+09-01-2024,Hero,XPulse 200,125,37,183687,6,Central,Dealer_20,46-55
+28-09-2024,Honda,CB350,125,61.4,130203,7,North,Dealer_1,56+
+07-10-2023,Hero,Splendor,350,54.8,295988,6,West,Dealer_5,18-25
+30-11-2024,Royal Enfield,Hunter 350,350,56,130483,8,West,Dealer_4,18-25
+12-04-2023,Honda,Shine,250,48.9,156355,1,East,Dealer_5,46-55
+07-07-2024,Suzuki,Access 125,250,57,112831,2,North,Dealer_2,18-25
+05-02-2023,Suzuki,Gixxer,350,46.7,293988,3,South,Dealer_17,36-45
+19-12-2023,TVS,Apache RTR,250,47.5,79433,10,South,Dealer_8,46-55
+19-12-2023,Jawa,Bobber,125,28.7,262211,1,Central,Dealer_13,18-25
+11-03-2023,Royal Enfield,Hunter 350,350,60.8,134887,5,West,Dealer_18,56+
+14-07-2024,Yamaha,FZ,400,39.1,172928,1,South,Dealer_3,18-25
+03-10-2024,Jawa,42,110,43,145443,6,West,Dealer_5,36-45
+09-06-2023,Suzuki,Gixxer,150,39.8,157532,4,Central,Dealer_17,46-55
+29-05-2023,Jawa,Yezdi Roadster,125,47.1,189291,4,West,Dealer_14,46-55
+08-03-2023,TVS,Raider,150,51.3,103056,5,West,Dealer_17,18-25
+16-01-2024,Suzuki,Gixxer,125,29.4,181549,8,Central,Dealer_5,18-25
+10-05-2023,TVS,Ntorq,200,31.4,283488,5,East,Dealer_19,26-35
+27-12-2024,Jawa,Bobber,150,43.1,245751,10,West,Dealer_5,18-25
+20-12-2023,Hero,Splendor,500,30,112760,10,West,Dealer_19,26-35
+15-04-2024,TVS,Apache RTR,400,31.7,249342,4,East,Dealer_9,56+
+17-03-2024,Yamaha,Fascino,350,37.9,85518,1,East,Dealer_16,36-45
+01-07-2024,Bajaj,CT 100,400,44.4,203507,6,East,Dealer_10,56+
+30-10-2023,TVS,Ntorq,350,46.1,158978,6,East,Dealer_18,26-35
+07-11-2023,Honda,Hornet 2.0,250,48.8,252496,1,South,Dealer_2,46-55
+24-09-2024,Honda,Hornet 2.0,500,35.9,159267,4,East,Dealer_18,56+
+24-02-2023,Bajaj,Avenger,150,45.8,287187,8,East,Dealer_9,18-25
+09-10-2024,Yamaha,FZ,125,37.6,299597,5,South,Dealer_17,18-25
+29-05-2024,Hero,XPulse 200,200,57.4,130076,2,South,Dealer_19,56+
+31-05-2024,Honda,Hornet 2.0,500,34.1,269548,9,South,Dealer_4,26-35
+05-09-2023,Jawa,42,250,41.8,135564,6,South,Dealer_4,46-55
+29-05-2023,Royal Enfield,Classic 350,125,57.1,228304,5,West,Dealer_2,46-55
+25-03-2023,Suzuki,Burgman,200,46.4,90365,2,East,Dealer_1,26-35
+10-06-2023,Suzuki,Gixxer,150,37.5,224723,4,Central,Dealer_13,46-55
+04-04-2024,TVS,Ntorq,350,47.3,114579,9,North,Dealer_11,26-35
+15-10-2024,Jawa,Bobber,200,52.1,134264,3,East,Dealer_2,26-35
+25-04-2024,Yamaha,MT-15,200,54.6,259855,5,South,Dealer_7,56+
+27-12-2023,Hero,Splendor,250,38.2,181875,2,East,Dealer_5,46-55
+07-12-2023,Hero,Splendor,350,33.3,105426,1,North,Dealer_1,56+
+24-03-2024,Suzuki,Intruder,250,32.8,120123,2,North,Dealer_8,56+
+29-06-2023,TVS,Apache RTR,200,37.8,247604,5,North,Dealer_11,56+
+10-04-2024,Suzuki,Gixxer,110,46.9,82020,9,West,Dealer_9,56+
+07-11-2023,Bajaj,Avenger,200,44,146310,9,North,Dealer_18,56+
+23-05-2023,Suzuki,Gixxer,250,49.5,238678,6,Central,Dealer_13,56+
+08-12-2023,Jawa,Bobber,250,39.7,144850,2,Central,Dealer_16,26-35
+12-01-2023,Royal Enfield,Bullet 350,250,25.1,222136,2,South,Dealer_17,46-55
+27-08-2023,Jawa,Yezdi Roadster,500,57.2,87527,9,West,Dealer_18,36-45
+04-03-2024,Hero,Glamour,400,53.9,135158,1,South,Dealer_19,56+
+07-06-2023,Bajaj,Pulsar 150,400,22.1,133977,1,Central,Dealer_8,18-25
+09-06-2024,Royal Enfield,Hunter 350,110,50.7,149052,10,South,Dealer_4,18-25
+14-03-2023,Suzuki,Access 125,400,51,279580,2,North,Dealer_3,36-45
+25-07-2023,Yamaha,FZ,350,40.7,237151,4,East,Dealer_2,56+
+23-09-2023,Honda,CB350,250,39.6,272738,6,South,Dealer_10,56+
+16-10-2023,Suzuki,Burgman,250,42.7,250615,2,Central,Dealer_3,18-25
+13-06-2023,Honda,CB350,150,47,175602,8,East,Dealer_3,18-25
+02-12-2023,TVS,Jupiter,125,34.8,291223,5,West,Dealer_14,56+
+26-08-2023,Honda,CB350,500,48,218901,3,Central,Dealer_2,56+
+25-01-2023,Suzuki,Access 125,200,45.1,172679,10,North,Dealer_20,46-55
+14-10-2024,TVS,Raider,500,31.9,200759,8,North,Dealer_10,56+
+20-06-2024,Yamaha,FZ,400,38.9,124964,5,East,Dealer_9,36-45
+20-03-2023,Jawa,Yezdi Roadster,500,43.1,168695,3,North,Dealer_13,26-35
+08-05-2023,Hero,XPulse 200,400,45.6,245149,6,North,Dealer_6,18-25
+30-08-2024,Suzuki,Burgman,200,50.3,163528,2,Central,Dealer_20,26-35
+15-06-2024,Bajaj,Avenger,250,51.6,166123,7,South,Dealer_12,36-45
+19-10-2024,Yamaha,FZ,250,46.4,135542,6,Central,Dealer_8,56+
+02-11-2024,Bajaj,Avenger,110,52.3,94703,6,West,Dealer_2,18-25
+12-02-2023,Yamaha,R15,250,40.4,282003,1,North,Dealer_3,26-35
+11-04-2024,Suzuki,Access 125,110,60.3,73282,7,Central,Dealer_8,36-45
+14-10-2023,Yamaha,MT-15,150,57.2,248821,8,Central,Dealer_2,18-25
+20-11-2024,Yamaha,R15,110,38.1,138681,3,North,Dealer_5,46-55
+10-09-2023,Honda,SP 125,250,44.4,231072,3,East,Dealer_5,56+
+24-03-2023,Suzuki,Intruder,150,30,88053,1,Central,Dealer_13,18-25
+09-04-2023,Yamaha,MT-15,400,53.8,86235,1,East,Dealer_16,26-35
+04-02-2024,Jawa,Bobber,500,37.3,111822,10,North,Dealer_15,56+
+31-08-2024,Honda,SP 125,150,39.4,164697,7,West,Dealer_17,46-55
+11-04-2023,Bajaj,Avenger,200,46.6,147492,5,West,Dealer_8,26-35
+25-12-2023,Hero,Splendor,110,45,235725,3,South,Dealer_9,36-45
+24-02-2024,Jawa,42,250,39.1,188728,4,South,Dealer_4,18-25
+04-05-2023,Royal Enfield,Classic 350,400,39.9,184151,6,Central,Dealer_7,26-35
+29-04-2024,TVS,Jupiter,500,49.7,296093,8,South,Dealer_7,56+
+19-09-2024,Yamaha,Fascino,200,52.3,139094,10,North,Dealer_3,26-35
+27-04-2024,Bajaj,Pulsar 150,250,62.1,197250,4,South,Dealer_3,56+
+02-06-2024,Bajaj,CT 100,250,34.4,175234,10,East,Dealer_5,26-35
+30-03-2024,Yamaha,FZ,500,25.6,258530,2,West,Dealer_16,46-55
+20-08-2024,Hero,HF Deluxe,150,72,190856,3,East,Dealer_2,36-45
+13-08-2024,Bajaj,Avenger,200,42.7,133085,2,North,Dealer_8,46-55
+22-10-2024,Royal Enfield,Bullet 350,125,34.5,109682,1,West,Dealer_1,46-55
+27-02-2024,Honda,Hornet 2.0,110,39.5,247192,6,East,Dealer_6,18-25
+06-03-2023,TVS,Apache RTR,250,48.9,282009,5,Central,Dealer_11,46-55
+07-05-2024,Jawa,Perak,110,54.4,248462,1,East,Dealer_20,26-35
+01-08-2023,Hero,Glamour,150,40.1,139313,7,North,Dealer_8,18-25
+11-05-2024,Bajaj,Dominar 400,400,43.8,181516,9,South,Dealer_10,56+
+30-11-2024,Honda,Shine,200,40.6,210587,5,East,Dealer_8,36-45
+02-07-2023,Bajaj,Avenger,150,44.9,296356,8,West,Dealer_17,36-45
+20-09-2024,TVS,Apache RTR,250,67.2,92219,7,North,Dealer_19,26-35
+17-07-2024,Bajaj,CT 100,500,33.1,237462,4,South,Dealer_19,26-35
+15-09-2024,Hero,XPulse 200,250,44.6,284638,3,South,Dealer_20,18-25
+11-03-2024,TVS,Raider,200,43.3,256684,3,North,Dealer_4,18-25
+26-02-2024,Suzuki,Burgman,125,62.1,137843,2,West,Dealer_1,36-45
+16-09-2024,Jawa,Perak,125,49.9,213178,6,East,Dealer_11,18-25
+15-04-2023,Bajaj,CT 100,110,43.8,199820,10,South,Dealer_8,56+
+29-02-2024,Yamaha,Fascino,200,47.9,143710,8,West,Dealer_4,56+
+09-05-2023,Yamaha,FZ,110,37.7,111097,1,Central,Dealer_17,18-25
+20-08-2023,Hero,XPulse 200,400,48.3,283599,4,North,Dealer_3,18-25
+11-10-2023,TVS,Raider,250,43.3,202868,3,North,Dealer_6,36-45
+26-12-2024,Suzuki,Access 125,200,59.1,144131,4,North,Dealer_9,18-25
+19-07-2023,Yamaha,FZ,350,57.1,221729,8,East,Dealer_4,46-55
+22-06-2023,Honda,Shine,110,48.7,153671,10,North,Dealer_19,26-35
+11-04-2024,Bajaj,Pulsar 150,150,42.4,161569,7,West,Dealer_6,46-55
+19-07-2023,Royal Enfield,Classic 350,500,39,200197,5,Central,Dealer_17,26-35
+19-05-2024,Honda,Shine,500,44.2,191716,7,Central,Dealer_18,18-25
+10-03-2024,Honda,CB350,500,52.9,117240,7,Central,Dealer_15,18-25
+12-02-2024,Jawa,Bobber,500,57.3,154938,3,West,Dealer_6,18-25
+01-01-2024,Honda,CB350,350,20.7,297917,3,North,Dealer_16,36-45
+16-08-2023,Jawa,Perak,400,46.9,230470,8,West,Dealer_13,18-25
+26-01-2024,Jawa,Perak,250,57,178097,6,East,Dealer_8,18-25
+13-05-2024,Bajaj,Avenger,150,38.4,267742,10,East,Dealer_5,18-25
+18-09-2023,Suzuki,Burgman,350,40.5,239983,6,North,Dealer_11,18-25
+16-12-2023,Suzuki,Access 125,250,40.6,295727,4,East,Dealer_20,18-25
+03-01-2024,Bajaj,Avenger,250,37,115054,7,West,Dealer_5,26-35
+08-08-2023,Bajaj,Pulsar 150,400,43.6,257316,5,South,Dealer_14,18-25
+26-12-2023,Jawa,Bobber,400,46.7,121526,3,East,Dealer_18,56+
+25-11-2023,Suzuki,Access 125,200,47.5,160595,6,South,Dealer_1,56+
+14-07-2024,TVS,Jupiter,110,32.5,121752,10,West,Dealer_9,56+
+17-01-2024,Bajaj,Avenger,400,40,169131,3,East,Dealer_15,26-35
+05-08-2023,Bajaj,Avenger,200,42.9,129252,9,East,Dealer_11,46-55
+13-01-2024,Hero,HF Deluxe,125,43.8,110442,2,Central,Dealer_7,46-55
+29-05-2023,Jawa,Yezdi Roadster,125,54.6,103882,6,South,Dealer_18,56+
+06-11-2024,Bajaj,Pulsar 150,150,44.5,220749,9,North,Dealer_6,36-45
+17-12-2023,Bajaj,Pulsar 150,350,59.6,136175,9,North,Dealer_14,46-55
+15-10-2023,Jawa,Perak,200,63,252639,5,Central,Dealer_14,36-45
+05-06-2024,Yamaha,R15,110,34.3,71083,9,South,Dealer_8,46-55
+30-09-2023,Hero,Splendor,200,48.6,198887,3,North,Dealer_7,18-25
+04-05-2023,TVS,Ntorq,150,34.6,81415,9,West,Dealer_14,26-35
+17-09-2024,Bajaj,Pulsar 150,500,25.3,196300,2,Central,Dealer_12,36-45
+16-11-2024,Bajaj,Pulsar 150,350,42.8,245325,2,North,Dealer_17,46-55
+23-04-2023,Royal Enfield,Meteor 350,200,42.2,153382,3,South,Dealer_4,56+
+27-06-2024,TVS,Jupiter,110,31.6,164023,10,West,Dealer_12,18-25
+10-08-2023,Honda,SP 125,125,54.1,132393,6,West,Dealer_5,18-25
+01-02-2024,TVS,Raider,500,43.3,234618,3,East,Dealer_15,36-45
+22-10-2024,TVS,Ntorq,110,47.8,176289,5,West,Dealer_9,18-25
+22-07-2023,Suzuki,Burgman,150,32.1,145528,7,North,Dealer_11,26-35
+13-09-2023,Jawa,Yezdi Roadster,200,47.3,148747,4,Central,Dealer_13,36-45
+17-06-2024,Jawa,Bobber,250,48.3,228290,1,North,Dealer_17,26-35
+10-04-2024,TVS,Ntorq,500,45.3,150499,6,East,Dealer_15,26-35
+11-03-2024,Bajaj,Dominar 400,400,48.2,259217,7,West,Dealer_18,46-55
+10-10-2023,Yamaha,R15,125,38.2,164009,8,North,Dealer_11,36-45
+11-02-2024,Honda,Hornet 2.0,125,44.9,208253,10,East,Dealer_2,26-35
+29-03-2023,Hero,Glamour,110,50.4,175400,8,North,Dealer_16,46-55
+25-02-2024,Honda,CB350,500,35.3,153189,1,North,Dealer_12,46-55
+01-12-2024,Honda,CB350,110,27.3,137694,9,North,Dealer_19,36-45
+21-09-2024,Jawa,Bobber,250,51.6,136165,3,East,Dealer_4,46-55
+19-01-2023,Jawa,Perak,250,59.4,99925,3,East,Dealer_13,56+
+17-08-2023,Yamaha,MT-15,200,55,207111,2,East,Dealer_20,36-45
+21-04-2023,Bajaj,Avenger,150,47.1,78008,5,South,Dealer_15,18-25
+06-08-2024,Hero,XPulse 200,350,47.1,265926,9,South,Dealer_18,46-55
+09-05-2023,Jawa,Bobber,150,32.9,241504,2,East,Dealer_1,36-45
+14-04-2023,Hero,XPulse 200,350,50.4,93361,8,East,Dealer_13,26-35
+27-04-2024,Suzuki,Access 125,125,48.4,206146,1,West,Dealer_17,36-45
+05-05-2024,Royal Enfield,Meteor 350,110,57.9,258302,1,Central,Dealer_19,18-25
+17-04-2024,Bajaj,CT 100,500,40.8,181895,3,South,Dealer_15,26-35
+19-08-2023,Honda,CB350,150,61.7,290622,3,South,Dealer_6,36-45
+07-03-2023,Jawa,Yezdi Roadster,200,48.9,203522,6,North,Dealer_19,46-55
+14-05-2024,Bajaj,Dominar 400,250,57,230249,1,Central,Dealer_6,26-35
+20-08-2024,TVS,Raider,500,38.9,161881,4,North,Dealer_7,36-45
+12-01-2023,Honda,Hornet 2.0,400,47.3,277236,7,North,Dealer_20,18-25
+28-07-2023,Jawa,Perak,150,47.4,95778,1,East,Dealer_1,46-55
+11-03-2023,Hero,Splendor,500,52.7,139328,2,East,Dealer_7,56+
+30-07-2023,Jawa,Yezdi Roadster,150,56.2,299998,7,East,Dealer_11,26-35
+19-06-2024,Suzuki,Access 125,400,62.3,187701,6,North,Dealer_16,26-35
+15-08-2023,Hero,HF Deluxe,400,41,110018,3,East,Dealer_16,36-45
+09-02-2024,Royal Enfield,Meteor 350,125,48.9,292522,4,West,Dealer_6,56+
+21-07-2023,TVS,Ntorq,350,36.2,188458,7,North,Dealer_2,36-45
+26-02-2023,Hero,HF Deluxe,250,29.7,151416,1,South,Dealer_9,56+
+20-01-2023,Bajaj,Dominar 400,125,57.6,125308,3,East,Dealer_11,26-35
+09-08-2023,Hero,HF Deluxe,500,54.8,141390,7,East,Dealer_9,26-35
+09-06-2024,Jawa,Yezdi Roadster,150,42.4,127765,1,North,Dealer_3,18-25
+28-11-2024,Yamaha,FZ,400,39.6,116498,6,East,Dealer_12,18-25
+24-02-2023,Honda,SP 125,110,48,239925,9,Central,Dealer_11,18-25
+19-06-2024,Royal Enfield,Bullet 350,400,42.6,174589,9,West,Dealer_19,36-45
+11-06-2023,Suzuki,Intruder,125,46.1,108969,3,Central,Dealer_19,36-45
+07-07-2023,Hero,HF Deluxe,125,61.1,208226,10,North,Dealer_3,46-55
+01-03-2023,Jawa,Yezdi Roadster,350,60.6,256907,9,East,Dealer_8,18-25
+30-07-2023,Bajaj,Pulsar 150,500,55.9,186355,1,Central,Dealer_6,18-25
+10-02-2024,Royal Enfield,Bullet 350,150,30.8,269756,3,North,Dealer_15,56+
+10-11-2023,Jawa,Bobber,250,55.7,171506,2,East,Dealer_4,26-35
+27-04-2023,TVS,Jupiter,125,53.5,284484,10,South,Dealer_4,26-35
+07-03-2024,Jawa,Bobber,150,45.9,282775,2,Central,Dealer_9,18-25
+15-11-2024,Hero,HF Deluxe,250,59.8,92524,6,South,Dealer_17,18-25
+02-07-2023,TVS,Apache RTR,200,40.7,140731,10,South,Dealer_13,46-55
+25-04-2024,Suzuki,Burgman,110,36.1,155759,5,Central,Dealer_9,26-35
+20-04-2024,Suzuki,Access 125,350,44.2,107247,6,East,Dealer_20,46-55
+30-10-2023,Bajaj,Pulsar 150,200,43.8,117811,8,North,Dealer_11,56+
+17-09-2023,Yamaha,R15,500,34.8,146730,8,East,Dealer_14,26-35
+21-10-2024,Bajaj,CT 100,500,63.5,235039,5,Central,Dealer_3,46-55
